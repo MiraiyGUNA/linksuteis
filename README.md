@@ -2,9 +2,26 @@
 
 # Links-Uteis
 
-Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
+## Changelog
 
-***
+
+**2023/07/18**
+
+- ✔️ - Programa Storyboader
+
+**2023/07/28** 
+
+- 🚧 - Port para novo repositório
+- ✔️ - Settings Compressão de Vídeos no Handbrake
+- 🚧 - Aviso em Preset de Handbrake
+- ✔️ - Remover Fundo de Imagens de Forma Automática - ✔️ Photoroom + Adobe Express
+- 🚧 - Melhores HD / SSD Preço Benefício
+- ✔️ - Download de Filmes com o Menor Tamanho Possível
+- 🚧 - Motores de Busca para Procurar Mídias Online - ✔️ Torrents
+
+
+
+Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
 
 ## endereços ips porreiros para colocar no vosso browser
 
@@ -540,6 +557,12 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [LRepacks](https://lrepacks.net/) - Usa um Tradutor
 - [YasDL](https://yasdl.com/) - Usa um Tradutor
 
+### Torrents
+- [bthaha](https://bthaha.com/)
+- [btdb](https://btdb.eu/)
+- [btdig](https://btdig.com/)
+- [solidtorrents](https://solidtorrents.net/)
+- [torrent paradise](https://torrent-paradise.ml/)
 
 #### Scripts para o FileCR
 
@@ -830,6 +853,8 @@ Aqui vais poder escolher um modelo base e, se assim quiseres, editar com opçõe
 Rasca, porque não deixa dar download da imagem no seu tamanho total, sem comprar. Mesmo assim, é prático de o utilizar. Portanto, recomendo o utilizares para remover fundos de logotipos e similares. Um exemplo incrível foi o de tirar o fundo do [peludito](https://cdn.discordapp.com/attachments/848638001949311036/1012741356969529374/unknown-removebg-preview.png), já que, como o nome diz, ele está repleto de pelos. Remover cabelos e similares é muito chato, portanto, obrigado site. Para ter uma resolução porreira, a melhor solução, acabaria por ser utilizar um waifu2x da vida.
 
 - [Remove.bg](https://www.remove.bg/)
+- [Photoroom](https://www.photoroom.com/tools/background-remover)
+- [Adobe Express](https://express.adobe.com/tools/remove-background)
 
 ### Remover Objetos De Uma Imagem
 
@@ -842,6 +867,14 @@ Similar ao [remove.bg](https://www.remove.bg/) mas este é focado em apagar um e
 Eu utilizei isto, para um trabalho da universidade. Ele o usei para...gerar uma conversa de chat. Eu o recomendo, já que ele é bastante completo e não tem qualquer tipo de complicação, na hora de criar a imagem. Apenas senti uma coisa em falta, que foi o facto de não deixar colocar um vídeo, mas também, o site apenas gera um "png". Podes sempre tentar simular, ao colocar um ícone de player de vídeo, na imagem e depois enviar para o site.
 
 - [fake-whatsapp-chat-generator](https://fakedetail.com/fake-whatsapp-chat-generator)
+
+### Download de Filmes com o Menor Tamanho Possível
+
+> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+
+Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+
+- [yts.mx](https://yts.mx/)
 
 ---
 
@@ -1292,6 +1325,19 @@ Uma excelente opção para quando precisas de ter uns .mp4 e não queres perder 
 
 - [HakuNeko](https://hakuneko.download/)
 
+### Programa para Criar Storyboards
+
+Este programa é muito forte, na hora de criar storyboards e já me safou algumas vezes na vida universitária. Um grande exemplo disso foi quando fiz o meu filme e precisei gerar storyboards para os vários planos. Estava num trabalho de grupo, a trabalhar sozinho, mas mesmo assim, consegui a melhor nota da turma inteira. Consegui tal feito, porque a qualidade e capacidades do programa são realmente boas. O facto que ele possibilita gerar cenários 3D, de forma tão simples é quase como mágico. Ele também trabalha muito bem com desenho convencional, mas pouco toquei nele. Um dos fatores para tal, é o fraco seletor de cores. Não sei se foi skill issue da minha parte, mas não gostei dele.
+
+> descobri que existe um novo "storyboarder" e parece ser de anime.
+> vou deixar o link cá, porque foda-se vai que
+
+- [Storyboarder todo Anime da vida](https://storyboarder.com/)
+
+**Eu adicionei o link para o github, porque o website da empresa exige colocar um email para fazer o download**
+
+- [Storyboarder](https://github.com/wonderunit/storyboarder)
+
 ---
 
 ## Programas Que Funcionam na Merda da Universidade
@@ -1613,11 +1659,53 @@ Eu já tentei ser equipa Firefox e eu compreendo os problemas que a base chromiu
 
 ### Preset de Handbrake
 
+> ANTIGO, POR FAVOR UTILIZAR O ATUALIZADO
+
 Depois de alguns estudos, eu adquiri este preset de Handbrake. Ele não é o mais ótimo já que se estimularmos o bitrate e também mudar para H.265, conseguiremos maior compactação. No meu caso, a minha máquina não é capaz de suportar esse maior render time e como tal, esta é a melhor opção. Se realmente quiseres, podem alterar o codificador para o H.265 que trará melhor resultados. Tenciono, depois de ter estruturado melhor os meus resultados, partilhar os dados de pesquisa para a vossa analise. Até lá, recomendo este website:
 
 - [Exemplos de Compressões de Vídeo](https://mattgadient.com/x264-vs-x265-vs-vp8-vs-vp9-examples/)
 - [WinRAR de Vídeos](https://cdn.discordapp.com/attachments/822853185638236180/934178297389137940/WINRAR_PARA_VIDEOS.json)
 
+### Settings Compressão de Vídeos no Handbrake
+
+Estas são as configurações mais gamers, para comprimir sem perder qualidade
+
+**📷️ vídeo**
+
+- h265 10bits
+- slow
+- 32cq // 24rf
+
+**🕪 audio**
+
+- opus
+- 192 (stereo) // 512 (5.1) // 768 (7.1)
+
+> existem aparelhos antigos que não suportam estas definições, mas quem tem uma dessas, não toca em compressão de ficheiros
+> se não são os macacos do áudio, podem reduzir os bitrates
+> se não são os macacos do vídeo, podem diminuir mais a qualidade
+> se forem zoomers e com attention span de merda, podem usar fast ao invés de slow
+
+*testes que fiz com um vídeo de 957,7 MiB*
+```
+H265.10bits
+85%CPU
+50%GPU
+5minutos e 40
+264,8MiB
+
+H265
+85%CPU
+50%GPU
+5minutos e 22
+268,5
+
+H264
+80%CPU
+55%GPU
+5minutos e 22
+327,8
+```
 
 ### Configs de MPV
 
@@ -1755,16 +1843,10 @@ Bem colega, toma aqui um packzinho dos diferentes cortes, pesos e o caralho da F
 
 ### Melhores HD / SSD Preço Benefício
 
-Olá! Eu sempre gosto de saber isto mas como estas merdas tem nomes de merda, nunca as vou decorar. Também como esta informação é tirada do 4chan e muitas vezes esta thread é apagada por monkey, eu registo aqui. Porquê registar aqui e não num outro place? Sei lá. É para mandar o pessoal ler a sala links-uteis quando me perguntarem essa merda
+Estes websites, ajudam a escolher que forma de armazenamento é melhor para o teu orçamento e também para a atualidade, correspondente a espaço por preço
 
-__Melhor HDD__
-
-- [Seagate BarraCuda 2TB Internal Hard Drive HDD](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q)
-
-__Melhor SSD__
-
-- [SAMSUNG 870 QVO SATA III 2.5" SSD 1TB](https://www.amazon.com/SAMSUNG-870-QVO-SATA-MZ-77Q1T0B/dp/B089C73T72)
-- [Samsung Electronics 870 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/SAMSUNG-500GB-Internal-MZ-77E500B-AM/dp/B08QBMD6P4/)
+- [shucks](https://shucks.top/)
+- [diskprices](https://diskprices.com/)
 
 
 ### SpeedRunners Online
