@@ -4,11 +4,20 @@
 
 ## Changelog
 
-```2023/07/18 - Adicionado Programa Storyboader```
+
+**2023/07/18**
+
+- ✔️ - Programa Storyboader
+
+**2023/07/28** 
+
+- 🚧 - Port para novo repositório
+- ✔️ - Settings Compressão de Vídeos no Handbrake
+- 🚧 - Aviso em Preset de Handbrake
+
+
 
 Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
-
-***
 
 ## endereços ips porreiros para colocar no vosso browser
 
@@ -1630,11 +1639,32 @@ Eu já tentei ser equipa Firefox e eu compreendo os problemas que a base chromiu
 
 ### Preset de Handbrake
 
+> ANTIGO, POR FAVOR UTILIZAR O ATUALIZADO
+
 Depois de alguns estudos, eu adquiri este preset de Handbrake. Ele não é o mais ótimo já que se estimularmos o bitrate e também mudar para H.265, conseguiremos maior compactação. No meu caso, a minha máquina não é capaz de suportar esse maior render time e como tal, esta é a melhor opção. Se realmente quiseres, podem alterar o codificador para o H.265 que trará melhor resultados. Tenciono, depois de ter estruturado melhor os meus resultados, partilhar os dados de pesquisa para a vossa analise. Até lá, recomendo este website:
 
 - [Exemplos de Compressões de Vídeo](https://mattgadient.com/x264-vs-x265-vs-vp8-vs-vp9-examples/)
 - [WinRAR de Vídeos](https://cdn.discordapp.com/attachments/822853185638236180/934178297389137940/WINRAR_PARA_VIDEOS.json)
 
+### Settings Compressão de Vídeos no Handbrake
+
+Estas são as configurações mais gamers, para comprimir sem perder qualidade
+
+**📷️ vídeo**
+
+- h265 10bits
+- slow
+- 32cq // 24rf
+
+**🕪 audio**
+
+- opus
+- 192 (stereo) // 512 (5.1) // 768 (7.1)
+
+> existem aparelhos antigos que não suportam estas definições, mas quem tem uma dessas, não toca em compressão de ficheiros
+> se não são os macacos do áudio, podem reduzir os bitrates
+> se não são os macacos do vídeo, podem diminuir mais a qualidade
+> se forem zoomers e com attention span de merda, podem usar fast ao invés de slow
 
 ### Configs de MPV
 

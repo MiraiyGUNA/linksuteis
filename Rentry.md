@@ -1009,9 +1009,23 @@ Um pequeno programa que é capaz de alterar as várias contas de Steam que você
 ![Imagem Presets](https://cdn.discordapp.com/attachments/862646082578939924/992751763637673984/Presets_Arquivos_e_Configuracoes_-_header.png)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies dolor sed velit condimentum dapibus. Mauris vulputate risus vel cursus malesuada. Duis pharetra enim a nibh sollicitudin, quis tristique quam mattis. Sed sit amet elit ut elit consectetur rhoncus ac id ex. Sed faucibus magna sed eleifend tempus. Sed luctus maximus dolor, eget suscipit justo dignissim non. Sed ut tortor ullamcorper, varius lectus ac, convallis mi. Mauris aliquam pellentesque ligula sed efficitur. Nunc sit amet est tortor. Nam at justo non magna luctus eleifend. Nulla scelerisque lacus quis erat finibus, id volutpat ante pretium.
 ### Preset de Handbrake
+> ANTIGO, POR FAVOR UTILIZAR O ATUALIZADO
 Depois de alguns estudos, eu adquiri este preset de Handbrake. Ele não é o mais ótimo já que se estimularmos o bitrate e também mudar para H.265, conseguiremos maior compactação. No meu caso, a minha máquina não é capaz de suportar esse maior render time e como tal, esta é a melhor opção. Se realmente quiseres, podem alterar o codificador para o H.265 que trará melhor resultados. Tenciono, depois de ter estruturado melhor os meus resultados, partilhar os dados de pesquisa para a vossa analise. Até lá, recomendo este website:
 - [Exemplos de Compressões de Vídeo](https://mattgadient.com/x264-vs-x265-vs-vp8-vs-vp9-examples/)
 - [WinRAR de Vídeos](https://cdn.discordapp.com/attachments/822853185638236180/934178297389137940/WINRAR_PARA_VIDEOS.json)
+### Settings Compressão de Vídeos no Handbrake
+Estas são as configurações mais gamers, para comprimir sem perder qualidade
+**📷️ vídeo**
+- h265 10bits
+- slow
+- 32cq // 24rf
+**🕪 audio**
+- opus
+- 192 (stereo) // 512 (5.1) // 768 (7.1)
+> existem aparelhos antigos que não suportam estas definições, mas quem tem uma dessas, não toca em compressão de ficheiros
+> se não são os macacos do áudio, podem reduzir os bitrates
+> se não são os macacos do vídeo, podem diminuir mais a qualidade
+> se forem zoomers e com attention span de merda, podem usar fast ao invés de slow
 ### Configs de MPV
 Aqui estão as minhas configs para o programa MPV. Lembro que para as usar, é necessário as respetivas shaders / scripts. Também vale lembrar que isto tudo tem com base no meu gosto pessoal (com questão dos inputs) e também para anime (para toda a parte dos renderings e videos). Faço mais isto como forma de database!
 - [input.conf](https://cdn.discordapp.com/attachments/822853185638236180/934178426514989097/input.conf)
