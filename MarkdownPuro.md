@@ -14,6 +14,10 @@
 - 🚧 - Port para novo repositório
 - ✔️ - Settings Compressão de Vídeos no Handbrake
 - 🚧 - Aviso em Preset de Handbrake
+- ✔️ - Remover Fundo de Imagens de Forma Automática - ✔️ Photoroom + Adobe Express
+- 🚧 - Melhores HD / SSD Preço Benefício
+- ✔️ - Download de Filmes com o Menor Tamanho Possível
+- 🚧 - Motores de Busca para Procurar Mídias Online - ✔️ Torrents
 
 
 
@@ -553,6 +557,12 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [LRepacks](https://lrepacks.net/) - Usa um Tradutor
 - [YasDL](https://yasdl.com/) - Usa um Tradutor
 
+### Torrents
+- [bthaha](https://bthaha.com/)
+- [btdb](https://btdb.eu/)
+- [btdig](https://btdig.com/)
+- [solidtorrents](https://solidtorrents.net/)
+- [torrent paradise](https://torrent-paradise.ml/)
 
 #### Scripts para o FileCR
 
@@ -843,6 +853,8 @@ Aqui vais poder escolher um modelo base e, se assim quiseres, editar com opçõe
 Rasca, porque não deixa dar download da imagem no seu tamanho total, sem comprar. Mesmo assim, é prático de o utilizar. Portanto, recomendo o utilizares para remover fundos de logotipos e similares. Um exemplo incrível foi o de tirar o fundo do [peludito](https://cdn.discordapp.com/attachments/848638001949311036/1012741356969529374/unknown-removebg-preview.png), já que, como o nome diz, ele está repleto de pelos. Remover cabelos e similares é muito chato, portanto, obrigado site. Para ter uma resolução porreira, a melhor solução, acabaria por ser utilizar um waifu2x da vida.
 
 - [Remove.bg](https://www.remove.bg/)
+- [Photoroom](https://www.photoroom.com/tools/background-remover)
+- [Adobe Express](https://express.adobe.com/tools/remove-background)
 
 ### Remover Objetos De Uma Imagem
 
@@ -855,6 +867,14 @@ Similar ao [remove.bg](https://www.remove.bg/) mas este é focado em apagar um e
 Eu utilizei isto, para um trabalho da universidade. Ele o usei para...gerar uma conversa de chat. Eu o recomendo, já que ele é bastante completo e não tem qualquer tipo de complicação, na hora de criar a imagem. Apenas senti uma coisa em falta, que foi o facto de não deixar colocar um vídeo, mas também, o site apenas gera um "png". Podes sempre tentar simular, ao colocar um ícone de player de vídeo, na imagem e depois enviar para o site.
 
 - [fake-whatsapp-chat-generator](https://fakedetail.com/fake-whatsapp-chat-generator)
+
+### Download de Filmes com o Menor Tamanho Possível
+
+> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+
+Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+
+- [yts.mx](https://yts.mx/)
 
 ---
 
@@ -1666,6 +1686,27 @@ Estas são as configurações mais gamers, para comprimir sem perder qualidade
 > se não são os macacos do vídeo, podem diminuir mais a qualidade
 > se forem zoomers e com attention span de merda, podem usar fast ao invés de slow
 
+*testes que fiz com um vídeo de 957,7 MiB*
+```
+H265.10bits
+85%CPU
+50%GPU
+5minutos e 40
+264,8MiB
+
+H265
+85%CPU
+50%GPU
+5minutos e 22
+268,5
+
+H264
+80%CPU
+55%GPU
+5minutos e 22
+327,8
+```
+
 ### Configs de MPV
 
 Aqui estão as minhas configs para o programa MPV. Lembro que para as usar, é necessário as respetivas shaders / scripts. Também vale lembrar que isto tudo tem com base no meu gosto pessoal (com questão dos inputs) e também para anime (para toda a parte dos renderings e videos). Faço mais isto como forma de database!
@@ -1802,16 +1843,10 @@ Bem colega, toma aqui um packzinho dos diferentes cortes, pesos e o caralho da F
 
 ### Melhores HD / SSD Preço Benefício
 
-Olá! Eu sempre gosto de saber isto mas como estas merdas tem nomes de merda, nunca as vou decorar. Também como esta informação é tirada do 4chan e muitas vezes esta thread é apagada por monkey, eu registo aqui. Porquê registar aqui e não num outro place? Sei lá. É para mandar o pessoal ler a sala links-uteis quando me perguntarem essa merda
+Estes websites, ajudam a escolher que forma de armazenamento é melhor para o teu orçamento e também para a atualidade, correspondente a espaço por preço
 
-__Melhor HDD__
-
-- [Seagate BarraCuda 2TB Internal Hard Drive HDD](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q)
-
-__Melhor SSD__
-
-- [SAMSUNG 870 QVO SATA III 2.5" SSD 1TB](https://www.amazon.com/SAMSUNG-870-QVO-SATA-MZ-77Q1T0B/dp/B089C73T72)
-- [Samsung Electronics 870 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/SAMSUNG-500GB-Internal-MZ-77E500B-AM/dp/B08QBMD6P4/)
+- [shucks](https://shucks.top/)
+- [diskprices](https://diskprices.com/)
 
 
 ### SpeedRunners Online
