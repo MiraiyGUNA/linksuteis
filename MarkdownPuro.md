@@ -2,6 +2,10 @@
 
 # Links-Uteis
 
+## Changelog
+
+```2023/07/18 - Adicionado Programa Storyboader```
+
 Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
 
 ***
@@ -1291,6 +1295,19 @@ Uma outra função, que eu adoro, é o seu próprio motor de busca. Usando as cl
 Uma excelente opção para quando precisas de ter uns .mp4 e não queres perder tempo a entrar num site de anime pirata ranço qualquer. O programa também tem a sua versão portátil, portante é interessante o colocar na pênis drive. Ele tem um tutorial de uso no lado do programa, portanto, não é necessário explicação. Ele guarda tudo na pasta Documentos/Manga, mesmo que seja anime... e acho que é tudo. Atualmente para anime, pelo menos para mim, o 9anime não parece estar a funcionar portanto vais precisar usar o Animephane.
 
 - [HakuNeko](https://hakuneko.download/)
+
+### Programa para Criar Storyboards
+
+Este programa é muito forte, na hora de criar storyboards e já me safou algumas vezes na vida universitária. Um grande exemplo disso foi quando fiz o meu filme e precisei gerar storyboards para os vários planos. Estava num trabalho de grupo, a trabalhar sozinho, mas mesmo assim, consegui a melhor nota da turma inteira. Consegui tal feito, porque a qualidade e capacidades do programa são realmente boas. O facto que ele possibilita gerar cenários 3D, de forma tão simples é quase como mágico. Ele também trabalha muito bem com desenho convencional, mas pouco toquei nele. Um dos fatores para tal, é o fraco seletor de cores. Não sei se foi skill issue da minha parte, mas não gostei dele.
+
+> descobri que existe um novo "storyboarder" e parece ser de anime.
+> vou deixar o link cá, porque foda-se vai que
+
+- [Storyboarder todo Anime da vida](https://storyboarder.com/)
+
+**Eu adicionei o link para o github, porque o website da empresa exige colocar um email para fazer o download**
+
+- [Storyboarder](https://github.com/wonderunit/storyboarder)
 
 ---
 
