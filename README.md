@@ -4,12 +4,11 @@
 
 ## Changelog
 
-
 **2023/07/18**
 
 - ✔️ - Programa Storyboader
 
-**2023/07/28** 
+**2023/07/28**
 
 - 🚧 - Port para novo repositório
 - ✔️ - Settings Compressão de Vídeos no Handbrake
@@ -19,9 +18,13 @@
 - ✔️ - Download de Filmes com o Menor Tamanho Possível
 - 🚧 - Motores de Busca para Procurar Mídias Online - ✔️ Torrents
 
+**2023/08/02**
 
+- ✔️ - Categoria - Compras
 
 Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
+
+---
 
 ## endereços ips porreiros para colocar no vosso browser
 
@@ -40,13 +43,7 @@ O download do teu torrent está com poucos seeders e, devido a isso, pouca veloc
 Qual é a melhor forma de verificar a tua privacidade enquanto sacas um torrent? Indo a um site que diz-te o que sacaste por torrent. Eu sei, não é muito educativo e mais para o assustador mas fica ai um site curioso que pode vir a salvar vidas. Com ele, por exemplo, podes saber se o teu amigo sacou ou não o jogo que pediste para ele sacar. Basta colocar o ip dele no website e verificar os torrents dele
 
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/)
-  
-### Reviews de Periféricos
 
-Quando estiveres com as massas no bolso, nada melhor que as gastar em um novo rato, teclado, fones,... Mas num mundo repleto de escolhas, qual será a melhor forma de separar as escolhas burlonas e as escolhas verdadeiras? Com este site, tens uma database de produtos diversos para ajudar-te na escolha. Listas como, "melhor produto para este orçamento" a "melhor produto do mercado" estão lá.
-
-- [Rtings](https://www.rtings.com/)
-  
 ### Bibliotecas de Livros Online
 
 Sei que hoje em dia ninguém se dá ao trabalho de ler mas quando um dos vossos familiares necessitar um livro, vocês podem dar uma de hacker familiar e arranjar-lo com a ajuda deste guia. Não tentarei definir o que cada site tem ou faz já que uso estes todos juntos para encontrar o que necessito. Vou deixar a lista e vocês decidam qual será o mais apropriado para a procura, ou façam em todos os sites.
@@ -68,8 +65,8 @@ Estás naquela fase da tua vida onde desejar criar um mosaico todo bonito do teu
 
 Olá jovem que sentiu falta de dicas porreiras do tropa mais fechado em casa de todos. Sei que estas breves descrições acabam por ser redondeantes pelo simples facto de que o título é autoexplicatório o suficiente mas mesmo assim, irei explicar! Acredito que a melhor forma de usar estes websites, é usando como um bypass para o limite de upload do discord. É muito simples de usar, basta arrastares o teu ficheiro para lá e esperar o upload!
 
-- [Litterbox](https://litterbox.catbox.moe/) - *versão com upload temporário*
-- [Catbox](https://catbox.moe/) - *versão com upload definitivo*
+- [Litterbox](https://litterbox.catbox.moe/) - _versão com upload temporário_
+- [Catbox](https://catbox.moe/) - _versão com upload definitivo_
 
 ### Repositórios de Imagens de Anime
 
@@ -136,11 +133,11 @@ Isto é uma forma mais prática de encontrar um jogo em específico, já que est
 4. [Vimm's Lair](https://vimm.net/?p=vault)
 5. [Crocdb](https://crocdb.net/)
 
-### Bypass Limite de Upload do Discord
+### BIOS / Firmware / Ficheiros de Emulação para os Emuladores
 
-Todos sabemos que Discord Nitro é uma merda. Também sabemos que alternativas ao Discord são todas carregadas por fracassos e tristezas. Como tal, como raio poderei eu dar upload a um porn gay no Discord? Sem problemas meu caro, se só procuras uma forma de colocar esse porn gay no discord, então este site tem isso resolvido. Basta dares upload nele e esperar a compressão!
+Para emular muitas das consolas que por ai andam, é necessário certos ficheiros, correspondentes com a própria consola. Basicamente, pensem nesses ficheiros como um segurança do Pacha. O jogo, que neste exemplo pode ficar como o próprio Pacha, não ficaria muito contente em ver uma cambada de pessoal não autorizado a entrar no estabelecimento. É por essa mesma razão, que temos o segurança, para verificar se os vossos .ISOs (adolescentes super cools) podem entrar ou não. Pior analogia possível...Agradeço o facto que ninguém lê estas merdas.
 
-- [8mb.video](https://8mb.video/)
+- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_files)
 
 ### Sites de Jogos Piratas
 
@@ -204,12 +201,23 @@ Alguns motores de pesquisa, que fazem o trabalho de procurar o site com o jogo, 
 4. [Online Fix](https://online-fix.me/)
 5. [ElAmigos](https://elamigos.site/)
 
+### Jogos da Rockstar nas suas melhores versões
+
+Queres jogar aquele GTA San Andreas, Vice City, 3 ou até mesmo os obscuros da empresa como The Warriors? Queres ter a melhor experiência possível sem teres que dar-te ao trabalho de instalar mods e o caralho? Bem, cola aqui neste website que tem isso mesmo que procuras. É simples de usar e na maioria das vezes o jogo já bem crackeado e o caralho
+
+- [Definitive Edition Project](https://www.definitive-edition-project.com/)
+
 ### Fix de Videojogos nos Puter
 
 Olá! Sabes quando te bate aquela nostalgia de jogar um GTA San Andreas? Acabas por arranjar uma versão e descobres que estás repleto de problemas gráficos ou até de compatibilidade. Coisas como Widescreen rafado, FPS cravados aos 30, sem música ou até som. Bom, uma forma porreira de resolver esse problema é verificando este website, que apresentará várias soluções para diversos problemas de jogos novos e até antigos! Se não quiseres ler, podes sempre procurar um vídeo no youtube!
 
-
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+
+### Bypass Limite de Upload do Discord
+
+Todos sabemos que Discord Nitro é uma merda. Também sabemos que alternativas ao Discord são todas carregadas por fracassos e tristezas. Como tal, como raio poderei eu dar upload a um porn gay no Discord? Sem problemas meu caro, se só procuras uma forma de colocar esse porn gay no discord, então este site tem isso resolvido. Basta dares upload nele e esperar a compressão!
+
+- [8mb.video](https://8mb.video/)
 
 ### Site Eventos Desportivos em Direto
 
@@ -222,12 +230,6 @@ Boas quaralho, a tasca do Zé está fechada e queres ver o Benfica Porto? Sem pr
 Bom dia! Estás à procura de uma boa database com OPs/EDs para aquele vídeo merdoso com "TOP ANIME OPENINGS". Bem, ajuda no projeto é nula mas posso recomendar este website. Ele apresenta uma enorme seleção e com uma excelente qualidade. Tem a capacidade de procurar pela tua lista do MAL, como padrão, mas recomendo que seleciones a opção "anime search".
 
 - [Themes.moe](https://themes.moe/)
-
-### Jogos da Rockstar nas suas melhores versões
-
-Queres jogar aquele GTA San Andreas, Vice City, 3 ou até mesmo os obscuros da empresa como The Warriors? Queres ter a melhor experiência possível sem teres que dar-te ao trabalho de instalar mods e o caralho? Bem, cola aqui neste website que tem isso mesmo que procuras. É simples de usar e na maioria das vezes o jogo já bem crackeado e o caralho
-
-- [Definitive Edition Project](https://www.definitive-edition-project.com/)
 
 ### Voice Creator
 
@@ -243,12 +245,12 @@ Password: tfzalwzyjcambohyun@nthrw.com
 
 ### Website para Download de Vídeos de Youtube
 
-Olá amiguinhos! O vosso macaco com tempo livre descobriu o melhor website para download de vídeos do Youtube! Depois de aprenderem, nunca mais irão precisas de escrever no Google "youtube mp4". Na minha escolha, levei com base algumas coisas mas as mais importantes foram: __Velocidade de Download__, já que muitos oferecem velocidades baixas. __Praticidade__ porque existem muitos que é preciso esperar ou clicar em vários botões. E para terminar, __Uso Simples__ para até o vosso pai conseguir usar o método.
+Olá amiguinhos! O vosso macaco com tempo livre descobriu o melhor website para download de vídeos do Youtube! Depois de aprenderem, nunca mais irão precisas de escrever no Google "youtube mp4". Na minha escolha, levei com base algumas coisas mas as mais importantes foram: **Velocidade de Download**, já que muitos oferecem velocidades baixas. **Praticidade** porque existem muitos que é preciso esperar ou clicar em vários botões. E para terminar, **Uso Simples** para até o vosso pai conseguir usar o método.
 Agora, a parte chata de lado e bora para o ensino secundário obrigatório! O site que escolhi é o "y2mate.com". Podem o aceder da forma convencional mas o que quero transmitir é a forma que eu acho correta, de usar o site. Basta editar o link do vídeo para serem redirecionados! Editar como? Bem, simplesmente adicionar "pp" entre "(...)tube(...)" e o "(...).com(...)". Desta forma, vão diretamente para a página de download!
 
 ### Paint do Windows 95/98 online
 
-A nostalgia apareceu? Lembraste daquele teu colega que fazia hiper obra de arte no Paint e pensaste "foda-se eu consigo fazer uma merda como aquele filha da puta". Bem, instalar essas versões antigas dos programas da Microsoft são bem difíceis de o fazer, o que resultará na tua desistência e o caralho. Portanto, aqui estou eu para te ajudar. Não desistas do sonho de replicar uma arte toda grafiti anos 90, grunge épica. 
+A nostalgia apareceu? Lembraste daquele teu colega que fazia hiper obra de arte no Paint e pensaste "foda-se eu consigo fazer uma merda como aquele filha da puta". Bem, instalar essas versões antigas dos programas da Microsoft são bem difíceis de o fazer, o que resultará na tua desistência e o caralho. Portanto, aqui estou eu para te ajudar. Não desistas do sonho de replicar uma arte toda grafiti anos 90, grunge épica.
 
 - [JSPaint](https://jspaint.app/)
 
@@ -283,7 +285,7 @@ Uma das coisas mais importantes para estruturar um bom texto é usar o mínimo p
 
 ### Sites Piratas para ver Animes
 
-Depois de uns bons anos a acompanhar anime, cheguei à conclusão que a melhor solução é os consumir com os respetivos ficheiros e um bom player de vídeo. Também descobri que muitos não estão dispostos a o fazer porque exige demasiado esforço para o resultado final. Por isso mesmo que, a opção de os consumir em um website pirata ainda é relevante. Como tal, decidi expor esta minha pequena lista dos melhores sítios para o fazer. Tentei criar uma lista que não exige o mínimo do usuário(ou seja, sem instalar adblocks e similares) mas que trouxesse uma boa qualidade. 
+Depois de uns bons anos a acompanhar anime, cheguei à conclusão que a melhor solução é os consumir com os respetivos ficheiros e um bom player de vídeo. Também descobri que muitos não estão dispostos a o fazer porque exige demasiado esforço para o resultado final. Por isso mesmo que, a opção de os consumir em um website pirata ainda é relevante. Como tal, decidi expor esta minha pequena lista dos melhores sítios para o fazer. Tentei criar uma lista que não exige o mínimo do usuário(ou seja, sem instalar adblocks e similares) mas que trouxesse uma boa qualidade.
 
 Nota: Na maioria das vezes, eu só testei o site uma vez e foi para ver a release de Kare Kano e outros animes "obscuros".
 
@@ -334,19 +336,13 @@ Obrigado Rui
 
 - [Coomer](https://coomer.party/)
 
-### Site Para Montar Computadores
-
-Este site facilita bastante na hora de escolher as peças, pois ajuda com as compatibilidades
-
-- [PC Part Picker](https://pcpartpicker.com/)
-
 ### Download de Várias Versões do Windows e Office Pelos Servidores da Microsoft
 
 Existem momentos na vida de um homem, que ele fica um pouco com medo de entrar em sites de estranhos online. No fim do dia, tudo o que ele quer é apenas sacar o seu Ruindows de forma legal. Então, quando estiveres com essa vontade quente no ar, este é o website que eu recomendo. Uma nota a ser considera, é também o ponto forte do site, o facto de que estás a fazer download pelos servers da Micropênis. Com isto em mente, não podes esperar encontrar a ISO do Windows 98 ou até do 7. Para essas situações, a melhor solução será procurar no [Archive.org](https://archive.org/). Também quero relembrar que este website, não tem qualquer ligação com a empresa Microsoft. É apenas um ajuda para pessoas do planeta Terra que não são trabalhadores da Microsoft.
 
 - [Windows pelos Servers da Microsoft](https://tb.rg-adguard.net/public.php)
 
-### Unblocker de Websites / Bypass 
+### Unblocker de Websites / Bypass
 
 Sabes aquele momento onde estás na universidade e ficaste com uma enorme vontade de jogar Catherine nos PCs da escola mas não trouxeste o jogo na tua pen? Pronto, tu, como puto nada responsável que és, acabas por te render e vais procurar nos clássicos sites de torrent MAS OH NÃO, eles estão todos bloqueados. Portanto, nestas situações, uma coisa que podes tentar, é utilizar um destes proxies sites para ver se te safas com o teu problema. Em suma, pensa nisto como um site espelho mas hospedado em outro local do mundo e como tal, o filtro não irá bloquear a tua diversão. Em casos de internets menos protegidas, isto funciona mas se estiveres na minha pele, esquece isso. Digo isto porque a minha universidade bloqueia de vez qualquer tipo de ligação à rede BitTorrent. Mesmo assim, boa sorte nisso. Nota: A ligação ao site vai ser mais lenta do que o normal.
 
@@ -361,7 +357,6 @@ Toda essa história de vírus ainda vive? Pensei que isso já tinha morrido... M
 ### Verificar os Preços e outras Informações dos Jogos da Steam
 
 - [SteamDB](https://steamdb.info/sales/)
-
 
 ### Sites com Legendas de Vários Idiomas para Filmes
 
@@ -380,37 +375,21 @@ Uma obrigação ao aceder a este tipo de websites, isto claro que a qualquer um 
 - [veporno](https://www.veporno.net/)
 - [porntrex](https://www.porntrex.com/)
 
-### Comparador de Preços de Videojogos
-
-Olá pessoa que ainda não se contentou com os preços baratos da Steam. Este é o site perfeito para ti, já que...não, não te preocupes, eu não vou recomendar sites de jogos piratas. Isso tu podes confirmar aqui neste mesmo [espaço](https://rentry.org/linksuteis#sites-de-jogos-piratas=). O que eu hoje vou apresentar, é um site que apresenta os preços de vários resselers de keys. Então, o que seria isto? Pensa assim, os jogos digitais, todos eles tem uma chave / código, que serve como forma de autenticar que uma cópia é verídica. O que estes sites fazem, é vender essas mesmas chaves, que tu depois podes colocar na tua Steam. Agora, razão para estes jogos serem mais baratos que os da Steam. Bem...existem pelo menos dois motivos. Um é o facto de que, estas pessoas compram grandes unidades e por o fazerem, eles recebem um desconto que fará com que o possam vender mai barato (também é toda uma questão de competição do livre mercado, mas não contes aos comunas). A segunda, é com a compra destes produtos, na Steam de outros países, como da Argentina. Por causa de inflações e tal, a Steam oferece diferentes preços para diferentes regiões. Isto tem o seu lado de ilegal mas ei, tu não és o culpado. Aliás, poucos são os casos de pessoas que sofreram por isso e, fica uma dica, podes muito bem ser tu a criar a tua conta Steam Argentina. Os preços lá são bem baratos mas fica um pouco complicado de criar uma conta dessa região. Para teres um cheiro disso, verifica o [SteamDB](https://rentry.org/linksuteis#verificar-os-pre%C3%A7os-e-outras-informa%C3%A7%C3%B5es-dos-jogos-da-steam=).
-
-
-- [AllKeyShop](https://www.allkeyshop.com/blog/)
-
 ### Verificar Aviões em Tempo Real
 
 Este website é daqueles que eu gosto de chamar "iniciadores de conversa". Porquê que digo isto? Bem, já pensaram o quão este site é inútil, para o dia a dia de um...como eu. Mesmo assim, quando estiveres no meio de um grupo de alunos universitários, tu vais compreender como este site será útil. Claro que, não podes sempre usar a mesma estratégia para gerar uma conversa e é por essa mesma razão, que este site, ainda parece uma merda. Pensa neste cenário. Um gajo random que fez a sua primeira compra online e está todo cheio do medo de perder as suas compras / dinheiro. Uma gaja que quer saber quando chega a sua familiar a Portugal. Um grupo de macacos que quer saber quanto tempo demora daqui à British. Todas estes momentos, são os momentos perfeitos de disparar este site. Eu sei, isto da comunicação social é comigo.
 
 - [Flightradar24](https://www.flightradar24.com/)
-  
-### BIOS / Firmware / Ficheiros de Emulação para os Emuladores
-
-Para emular muitas das consolas que por ai andam, é necessário certos ficheiros, correspondentes com a própria consola. Basicamente, pensem nesses ficheiros como um segurança do Pacha. O jogo, que neste exemplo pode ficar como o próprio Pacha, não ficaria muito contente em ver uma cambada de pessoal não autorizado a entrar no estabelecimento. É por essa mesma razão, que temos o segurança, para verificar se os vossos .ISOs (adolescentes super cools) podem entrar ou não. Pior analogia possível...Agradeço o facto que ninguém lê estas merdas.
-
-- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_files)
-
 
 ### Website de Converter Múltiplas Unidades
 
 - [Converter Now](https://converter-now.web.app/)
 
-
 ### Visitar Mapas de Videojogos Pelo Browser
 
-*Ser Gamer...Ser um Jogador*. Existem momentos no meu dia que eu fico "Hm? Quero dar uma volta por Vice City" e nesses momentos, este site vai te safar. Não só com o Vice City, mas com vários outros títulos emblemáticos pela sua arquitetura de mundo. É realmente uma sensação bizarra, que eu próprio não consigo explicar. Deve ser uma mescla da satisfação do escapismo + nostalgia por aquele canto. É também por esse motivo, que dou boot no Garry's Mod, para estar apenas eu e o mapa. Uma ótima maneira de usar este site, é para fazer aquelas filmagens SuPeR épicas para vídeos do Youtube. Aquelas mesmas que pessoas como o Master Reset faz nos seus vídeos de RE4. Aliás, só existe um problema neste site, mas que poderá ser um ponto positivo para esta forma de o usar, que é a falta dos barulhos de fundo, npcs e similares, que melhoram a experiência. De resto, é um excelente time waster!
+_Ser Gamer...Ser um Jogador_. Existem momentos no meu dia que eu fico "Hm? Quero dar uma volta por Vice City" e nesses momentos, este site vai te safar. Não só com o Vice City, mas com vários outros títulos emblemáticos pela sua arquitetura de mundo. É realmente uma sensação bizarra, que eu próprio não consigo explicar. Deve ser uma mescla da satisfação do escapismo + nostalgia por aquele canto. É também por esse motivo, que dou boot no Garry's Mod, para estar apenas eu e o mapa. Uma ótima maneira de usar este site, é para fazer aquelas filmagens SuPeR épicas para vídeos do Youtube. Aquelas mesmas que pessoas como o Master Reset faz nos seus vídeos de RE4. Aliás, só existe um problema neste site, mas que poderá ser um ponto positivo para esta forma de o usar, que é a falta dos barulhos de fundo, npcs e similares, que melhoram a experiência. De resto, é um excelente time waster!
 
 - [noclip.website](https://noclip.website/)
-
 
 ### Procurar Cenas de Filmes/Músicas/Séries Por Frase
 
@@ -418,13 +397,11 @@ Aviso: Não ainda não é possível procurar "the only thing all humans are equa
 
 - [yarn](https://yarn.co/)
 
-
 ### Emulador de Windows Antigos, Com Vários Jogos da Época
 
 Se queres simular um computador dos antigos, com os seus devidos antigos programas e jogos, sem grande esforço, então este deve ser o site perfeito para isso. Nele, tens acesso a 3 versões do Windows, sendo o Windows 95, o Windows 98 e o Windows Me as escolhas. Dentro deles, vais encontrar títulos porreiros, como o Half Life, Quake 1, 2, Arena, mas não só jogos, como também alguns programas porreiros da época como o Winamp. Este site, também é uma excelente forma de jogar alguns clássicos do telemóvel, já que meio que o site tem o foco nisso, ou seja, portar jogos para HTML5. No princípio, eram todos com a vibe PC antigo, mas agora, meio que isso mudou. Mesmo assim, uma ferramenta porreira, nem que seja para gastar o tempo.
 
 - [emuos](https://emuos.net/beta/emuos/)
-
 
 ### Procura Avançada de Vídeos do Youtube
 
@@ -432,25 +409,11 @@ Existem momentos na vida de um homem, onde este sente a necessidade de procurar 
 
 - [Advanced Search for YouTube](https://playlists.at/youtube/search/)
 
-
 ### Espaço Infinito no Google Drive
 
 Ter espaço ilimitado no Google Drive? Qual é a catch? Assim, vamos estar a utilizar o serviço de "Shared Folders" e por essa mesma razão, precisas de ter em mente, que outras pessoas terão acesso aos teus ficheiros. Não só isso, como também vais estar a oferecer as tuas credenciais da conta Google para outro. Por essa mesma razão, recomendo que o faças numa conta aleatório sem nada linkado a ti. Então? O que precisas fazer? Simples. Basta aceder ao link aque em baixo, colocar as tuas informações de login e talvez esperar um bocado. Para depois teres acesso a esse espaço, no teu Google Drive, procura pelo "Shared Drives". Outra recomendação que tenho, mas isto é com qualquer tipo de serviço de Cloud, é encriptar os ficheiros antes do upload. Podes usar o [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/). Também, pelo facto que qualquer um pode apagar os ficheiros, também recomendo não colocares nada muito pessoal lá, mesmo com encriptação. Vai que alguém realmente apaga o teu relatório de estágio...
 
-- [创建Google TeamDrive](https://td.mila.workers.dev/)
-
-
-### Comparador de Produtos
-
-A comparação é a forma mais simples de classificar alguma coisa. Colocar X para igual de Y é a essência da nossa caracterização. Por essa razão, na hora de fazermos uma compra para o nosso setup gamer, precisamos saber se iremos ter uma melhoria para o atual. Não queremos entrar numa espiral de desespero, porque gastamos dinheiro de forma desnecessária. Por essa razão, eu aqui vou recomendar alguns dos sites que uso na hora de fazer comprinhas. Eu já recomendei um dos sites desta lista, mas como ele também é uma peça deste puzzle, porque não repetir?
-
-- [versus](https://versus.com/) - Focado no espeto de comparar a eficácia de produtos com relação ao seu preço
-- [rtings](https://www.rtings.com/) - Repleto de reviews que vão ao ponto sobre o que procurares
-- [SocialCompare](https://socialcompare.com/en) - Não é bem para tecnologia mas tem umas comparações gerais de temas múltiplos
-- [Diffen](https://www.diffen.com/) - Compara tipos de produtos, ou seja, coisas como SSD vs HDD
-- [Looria](https://looria.com/) - Este trabalha mais como um agregador da informação para a apresentar de forma clara e limpa
-- [NanoReview](https://nanoreview.net/en) - Focado em telemóveis e portáteis
-- [Reddit Favorites](https://redditfavorites.com/) - Se procuras uma opinião/review, acredito que este seria o melhor sítio.
+- [创建 Google TeamDrive](https://td.mila.workers.dev/)
 
 ### Encontrar Diferenças em PDF's / Textos / Imagens
 
@@ -476,14 +439,6 @@ Este é mais um site para a coleção "sites engraçados ahahahhaah, usei uma ve
 
 - [The Death Generator](https://deathgenerator.com/)
 
-
-### Companheiro/Ajuda na Hora de Comprar um Computador
-
-O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não sabem muito sobre todo o processo de montar um computador. O site resolve o maior problema com o desafio de montar um computador, sendo, que partes colocar num computador e saber se elas são 100% compatíveis umas com as outras. No site, temos diferentes builds de computadores para VÁRIOS orçamentos. Eu próprio verifiquei essas builds e posso aprovar que eles oferecem um bom produto. As escolhas são muito bem pensadas, para os orçamentos. Não só isso, como ele também ajuda na hora de decidir, onde comprar as devidas peças e sim, também ajuda para a gente de Portugal. Ah, já me ia esquecendo, o site vai atualizando ao longo do tempo, portanto, podes esperar que a informação dele, é fresca. A forma principal de separar as categorias é com os orçamentos/adjetivos/cores, mas também tens guias para jogos específicos ou atividades, se preferires. Em suma, sempre que fores pensar em "quero comprar algo para o meu computador", super recomendo passar neste site.
-
-- [Logical Increments](https://www.logicalincrements.com/)
-
-
 ### Motores de Busca para Procurar Mídias Online
 
 #### Jogos
@@ -498,7 +453,6 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [Rave Search](https://idleendeavor.github.io/gamesearch/)
 - [Rave Search 2](https://ravegamesearch.pages.dev/)
 
-
 #### Anime
 
 - [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei#gsc.tab=0)
@@ -508,7 +462,6 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z#gsc.tab=0)
 - [Manga CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
 
-
 #### Software
 
 - [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e#gsc.tab=0)
@@ -516,7 +469,6 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0)
 - [Android APK CSE 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0)
 - [Android APK CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6#gsc.tab=0)
-
 
 #### Livros
 
@@ -531,7 +483,6 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z#gsc.tab=0)
 - [Manga CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
 
-
 #### Filmes / TV / Séries / Streaming num Geral
 
 - [TV Streaming](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg#gsc.tab=0)
@@ -540,13 +491,11 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [Streaming Sites Search 3](https://cse.google.com/cse?cx=98916addbaef8b4b6)
 - [Streaming Sites Search 4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 
-
 #### Pesquisar Num Site
 
 - [4chan search](https://4chansearch.com/)
 - [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search)
 - [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683)
-
 
 ### Download de Softwares
 
@@ -558,6 +507,7 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 - [YasDL](https://yasdl.com/) - Usa um Tradutor
 
 ### Torrents
+
 - [bthaha](https://bthaha.com/)
 - [btdb](https://btdb.eu/)
 - [btdig](https://btdig.com/)
@@ -571,9 +521,17 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 
 ### Remover Paywalls de vários Sites de Notícias
 
-Eu já testei isto em vários sites de Portugal e funciona. Ao contrário de extensões, este método tem uma maior chance de funcionar, no nosso país. Existe também uma forma mais rápida, de remover a paywall, ao acrescentar ```https://12ft.io/``` ao link da notícia. Mesmo assim, acredito que seja mais simples, utilizar o site.
+Eu já testei isto em vários sites de Portugal e funciona. Ao contrário de extensões, este método tem uma maior chance de funcionar, no nosso país. Existe também uma forma mais rápida, de remover a paywall, ao acrescentar `https://12ft.io/` ao link da notícia. Mesmo assim, acredito que seja mais simples, utilizar o site.
 
 - [12ft](https://12ft.io/)
+
+### Download de Filmes com o Menor Tamanho Possível
+
+> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+
+Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+
+- [yts.mx](https://yts.mx/)
 
 ---
 
@@ -585,8 +543,8 @@ Tal como a malta do 3D, que foi crescendo por causa da enorme ajuda que a comuni
 
 ### Website com tudo o que seja relacionado às multimédias/design gráfico
 
-E agora, o que vou fazer? Eu preciso de usar Futura, uma fonte cara que nunca terei acesso... Merda e depois vou ter que criar um book e eu não sei um caralho de como se cria uma merda dessas. AH NÃO, eu não tirei fotografias nenhumas, ESTOU FODIDO. 
-Nada temas cidadão, pois este site aqui salvar-te-á a pele! Aqui tens acesso a múltiplos conteúdos uteis para a tua vida de cursinho multimédia. É mesmo muita coisa. Tens desde logo/logótipos, tipos de fontes/famílias tipográficas, brochures, templates/mockups, presets, brushes e a lista é extensa. 
+E agora, o que vou fazer? Eu preciso de usar Futura, uma fonte cara que nunca terei acesso... Merda e depois vou ter que criar um book e eu não sei um caralho de como se cria uma merda dessas. AH NÃO, eu não tirei fotografias nenhumas, ESTOU FODIDO.
+Nada temas cidadão, pois este site aqui salvar-te-á a pele! Aqui tens acesso a múltiplos conteúdos uteis para a tua vida de cursinho multimédia. É mesmo muita coisa. Tens desde logo/logótipos, tipos de fontes/famílias tipográficas, brochures, templates/mockups, presets, brushes e a lista é extensa.
 O Download é simples, com muitos servidores. A barra de pesquisa é que é bastante fraca, portanto recomendo usares o Google e mesmo assim, ficas melhor a procurar tu pelo que desejas.
 
 - [Graphicex](https://graphicex.com/)
@@ -621,14 +579,14 @@ O Download é simples, com muitos servidores. A barra de pesquisa é que é bast
 - [Nohat](https://nohat.cc/) - Precisa de conta, mas o site tem várias ferramentas porreiras, portanto, foda-se
 - [Unsplash](https://unsplash.com/) - O clássico site para isto
 - [Pexels](https://www.pexels.com/) - Outro clássico
-- [PixaBay](https://pixabay.com/) - O Pai dos clássicos 
+- [PixaBay](https://pixabay.com/) - O Pai dos clássicos
 - [PNGIMG](https://pngimg.com/) - Focado em arranjar imagens transparentes
-- [StockSnap](https://stocksnap.io/) 
+- [StockSnap](https://stocksnap.io/)
 - [allthefreestock](https://allthefreestock.com/) - Agregador de vários recursos
 - [altphotos](https://altphotos.com/)
 - [chamberofcommerce](https://www.chamberofcommerce.org/findaphoto/) - Focado em fotografias de empresas
-- [goodfreephotos](https://www.goodfreephotos.com/) 
-- [morguefile](https://morguefile.com/) - Também tem vídeos 
+- [goodfreephotos](https://www.goodfreephotos.com/)
+- [morguefile](https://morguefile.com/) - Também tem vídeos
 - [DesireFX](https://desirefx.me/) - Tem várias outras coisas
 - [icons8](https://icons8.com/photos) - O site tem focos em icons, mas também tem imagens porreiras
 - [Creativity103.com](https://creativity103.com/) - Tem um estilo mais urbano/ruas, portanto, é como alternativa para quando não quiseres o estilo genérico de stock images
@@ -657,20 +615,20 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 - [VidsPlay](https://www.vidsplay.com/)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Mixkit](https://mixkit.co/)
-- [Coverr](https://coverr.co/) 
+- [Coverr](https://coverr.co/)
 - [BeachFrontBroll](http://www.beachfrontbroll.com/)
-- [Videvo](https://www.videvo.net/) 
+- [Videvo](https://www.videvo.net/)
 - [CuteStockFootage](https://cutestockfootage.com/)
 - [VidEezy](https://www.videezy.com/)
 - [Vecteezy](https://www.vecteezy.com/) - É mais focado em arte vetorial, mas tem vídeos
-- [Mazwai](https://mazwai.com/) 
-- [Pexels Video](https://www.pexels.com/videos/) -  Tem a sua versões de Imagens 
-- [Life of Vids](https://www.lifeofvids.com/) 
-- [FreeHD, Elements] - Isto é um canal do vimeo, então, precisas arranjar um youtube-dl 
+- [Mazwai](https://mazwai.com/)
+- [Pexels Video](https://www.pexels.com/videos/) - Tem a sua versões de Imagens
+- [Life of Vids](https://www.lifeofvids.com/)
+- [FreeHD, Elements] - Isto é um canal do vimeo, então, precisas arranjar um youtube-dl
 - [veed.io](https://www.veed.io/videos)
-- [DroneStock](https://dronestock.com/) - Focado em gravações de Drone 
-- [MotionPlaces](https://www.motionplaces.com/) - Foco nas localidades das gravações 
-- [motionarray](https://motionarray.com/browse/stock-video/?free=true) - Os de graça deste site pago 
+- [DroneStock](https://dronestock.com/) - Focado em gravações de Drone
+- [MotionPlaces](https://www.motionplaces.com/) - Foco nas localidades das gravações
+- [motionarray](https://motionarray.com/browse/stock-video/?free=true) - Os de graça deste site pago
 - [mitchmartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/)
 - [morguefile](https://morguefile.com/) - Também tem imagens
 
@@ -678,7 +636,7 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 
 #### Efeitos Sonoros // Loops
 
-- [Free Sound](http://www.freesound.org/) - ```email: tnnryjpnlauuewhwjz@tcwlx.com // senha: tnnryjpnlauuewhwjz@tcwlx.com```
+- [Free Sound](http://www.freesound.org/) - `email: tnnryjpnlauuewhwjz@tcwlx.com // senha: tnnryjpnlauuewhwjz@tcwlx.com`
 - [SoundBible](https://soundbible.com/)
 - [Free-Loops](https://free-loops.com/)
 - [Free Sound Effects](https://www.freesoundeffects.com/)
@@ -730,12 +688,6 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 - [Sampld](https://open.sampld.app/)
 - [Blue Fox Music](https://bluefoxmusic.com/)
 
-### Site com Reviews/Recomendações de Câmaras DSLR
-
-Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
-
-- [DPreview](https://www.dpreview.com/)
-
 ### Website com múltiplos ícones que podem ser transformados para logos
 
 Bom dia meu fiel escudeiro que passas no meu jardim! Eu sou o Miraiy e serei o teu guia nesta jornada de copiar merdas da internet e dizer que foste tu a o fazer. Hoje, apresento um website, onde tem muitos ícones, perfeitos para a transmutação para aqueles logotipos de baixa qualidade com uma assinatura e um símbolo. Ele é mais focado para ícones de videojogos, mas quem disse que tal não é próprio para este tipo de trabalho? O que precisas fazer? Bem, simplesmente clica num, tira o fundo para ficar mais simples no Illustrator e depois faz download do SVG, para teres um vetor e não pixéis. É O ROUBO PERFEITO!
@@ -777,7 +729,7 @@ Antes de tudo, muito obrigado Prof. Carlos por esta mitada. Neste website, você
 
 Imaginem lá então, a puta da Renata que pensa que o Photoshop apenas é para criar texturas. Mas que puta de vaca, não é mesmo. Bem, aqui ficam algumas das minhas recomendações de websites capazes de gerar uma imagem para criar padrões. Porque raio fazer assim e não sacar uma imagem com a devida textura da internet? É tudo uma questão de aumentar as possibilidades, para assim fazer susexo no mercado de trabalho.
 
-__Texturas__
+**Texturas**
 
 - [Texture Generator Online](https://cpetry.github.io/TextureGenerator-Online/)
 - [ArchiTextures](https://architextures.org/create)
@@ -786,13 +738,13 @@ __Texturas__
 - [Make Seamless Texture](https://www.imgonline.com.ua/eng/make-seamless-texture.php)
 - [Texture Generator](https://texture-generator.com/generator/demo/)
 
-__Padrões__
+**Padrões**
 
 - [Patternico](https://patternico.com/)
 - [Pattern Generator](https://doodad.dev/pattern-generator/)
 - [Pattern Moster](https://pattern.monster/)
 
-__Padrões Já Feitos de um Anon__
+**Padrões Já Feitos de um Anon**
 
 - [1](http://cs.gettysburg.edu/~duncjo01/archive/patterns/)
 - [2](https://images.ira.abramov.org/Propaganda/)
@@ -868,13 +820,53 @@ Eu utilizei isto, para um trabalho da universidade. Ele o usei para...gerar uma 
 
 - [fake-whatsapp-chat-generator](https://fakedetail.com/fake-whatsapp-chat-generator)
 
-### Download de Filmes com o Menor Tamanho Possível
+---
 
-> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+## Dar Upgrade no Setup Gamer
 
-Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+![Imagem Compras](https://cdn.discordapp.com/attachments/862646082578939924/1136340196279988234/bXbV7Uw.png)
 
-- [yts.mx](https://yts.mx/)
+### Reviews de Periféricos
+
+Quando estiveres com as massas no bolso, nada melhor que as gastar em um novo rato, teclado, fones,... Mas num mundo repleto de escolhas, qual será a melhor forma de separar as escolhas burlonas e as escolhas verdadeiras? Com este site, tens uma database de produtos diversos para ajudar-te na escolha. Listas como, "melhor produto para este orçamento" a "melhor produto do mercado" estão lá.
+
+- [Rtings](https://www.rtings.com/)
+
+### Comparador de Produtos
+
+A comparação é a forma mais simples de classificar alguma coisa. Colocar X para igual de Y é a essência da nossa caracterização. Por essa razão, na hora de fazermos uma compra para o nosso setup gamer, precisamos saber se iremos ter uma melhoria para o atual. Não queremos entrar numa espiral de desespero, porque gastamos dinheiro de forma desnecessária. Por essa razão, eu aqui vou recomendar alguns dos sites que uso na hora de fazer comprinhas. Eu já recomendei um dos sites desta lista, mas como ele também é uma peça deste puzzle, porque não repetir?
+
+- [versus](https://versus.com/) - Focado no espeto de comparar a eficácia de produtos com relação ao seu preço
+- [rtings](https://www.rtings.com/) - Repleto de reviews que vão ao ponto sobre o que procurares
+- [SocialCompare](https://socialcompare.com/en) - Não é bem para tecnologia mas tem umas comparações gerais de temas múltiplos
+- [Diffen](https://www.diffen.com/) - Compara tipos de produtos, ou seja, coisas como SSD vs HDD
+- [Looria](https://looria.com/) - Este trabalha mais como um agregador da informação para a apresentar de forma clara e limpa
+- [NanoReview](https://nanoreview.net/en) - Focado em telemóveis e portáteis
+- [Reddit Favorites](https://redditfavorites.com/) - Se procuras uma opinião/review, acredito que este seria o melhor sítio.
+
+### Companheiro/Ajuda na Hora de Comprar um Computador
+
+O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não sabem muito sobre todo o processo de montar um computador. O site resolve o maior problema com o desafio de montar um computador, sendo, que partes colocar num computador e saber se elas são 100% compatíveis umas com as outras. No site, temos diferentes builds de computadores para VÁRIOS orçamentos. Eu próprio verifiquei essas builds e posso aprovar que eles oferecem um bom produto. As escolhas são muito bem pensadas, para os orçamentos. Não só isso, como ele também ajuda na hora de decidir, onde comprar as devidas peças e sim, também ajuda para a gente de Portugal. Ah, já me ia esquecendo, o site vai atualizando ao longo do tempo, portanto, podes esperar que a informação dele, é fresca. A forma principal de separar as categorias é com os orçamentos/adjetivos/cores, mas também tens guias para jogos específicos ou atividades, se preferires. Em suma, sempre que fores pensar em "quero comprar algo para o meu computador", super recomendo passar neste site.
+
+- [Logical Increments](https://www.logicalincrements.com/)
+
+### Site Para Montar Computadores
+
+Este site facilita bastante na hora de escolher as peças, pois ajuda com as compatibilidades
+
+- [PC Part Picker](https://pcpartpicker.com/)
+
+### Comparador de Preços de Videojogos
+
+Olá pessoa que ainda não se contentou com os preços baratos da Steam. Este é o site perfeito para ti, já que...não, não te preocupes, eu não vou recomendar sites de jogos piratas. Isso tu podes confirmar aqui neste mesmo [espaço](https://rentry.org/linksuteis#sites-de-jogos-piratas=). O que eu hoje vou apresentar, é um site que apresenta os preços de vários resselers de keys. Então, o que seria isto? Pensa assim, os jogos digitais, todos eles tem uma chave / código, que serve como forma de autenticar que uma cópia é verídica. O que estes sites fazem, é vender essas mesmas chaves, que tu depois podes colocar na tua Steam. Agora, razão para estes jogos serem mais baratos que os da Steam. Bem...existem pelo menos dois motivos. Um é o facto de que, estas pessoas compram grandes unidades e por o fazerem, eles recebem um desconto que fará com que o possam vender mai barato (também é toda uma questão de competição do livre mercado, mas não contes aos comunas). A segunda, é com a compra destes produtos, na Steam de outros países, como da Argentina. Por causa de inflações e tal, a Steam oferece diferentes preços para diferentes regiões. Isto tem o seu lado de ilegal mas ei, tu não és o culpado. Aliás, poucos são os casos de pessoas que sofreram por isso e, fica uma dica, podes muito bem ser tu a criar a tua conta Steam Argentina. Os preços lá são bem baratos mas fica um pouco complicado de criar uma conta dessa região. Para teres um cheiro disso, verifica o [SteamDB](https://rentry.org/linksuteis#verificar-os-pre%C3%A7os-e-outras-informa%C3%A7%C3%B5es-dos-jogos-da-steam=).
+
+- [AllKeyShop](https://www.allkeyshop.com/blog/)
+
+### Site com Reviews/Recomendações de Câmaras DSLR
+
+Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
+
+- [DPreview](https://www.dpreview.com/)
 
 ---
 
@@ -886,37 +878,31 @@ Eu utilizo sempre este website, quando quero fazer download de um filme. A compr
 
 #### Ublock Origin
 
-- [Ublock Origin](https://github.com/gorhill/uBlock#readme=) - Recomendo utilizar a função ["medium mode"](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode#how-to-enable-this-mode), que pode originar alguns problemas durante a navegação nas webs, mas com este simples passo, consegues ter uma enorme proteção online! 
+- [Ublock Origin](https://github.com/gorhill/uBlock#readme=) - Recomendo utilizar a função ["medium mode"](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode#how-to-enable-this-mode), que pode originar alguns problemas durante a navegação nas webs, mas com este simples passo, consegues ter uma enorme proteção online!
 
 #### Decenraleyes
 
 - [Decenraleyes](https://decentraleyes.org/)
 
-
 #### ClearURLs
 
 - [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls/-/blob/master/README.md)
-
 
 #### SponsorBlock
 
 - [SponsorBlock](https://sponsor.ajay.app/)
 
-
 #### FastForward
 
 - [FastForward](https://fastforward.team/)
-
 
 #### I don't care about cookies
 
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
 
-
 #### Violentmonkey
 
 - [Violentmonkey](https://violentmonkey.github.io/get-it/)
-
 
 ### Conveniente Ter
 
@@ -924,31 +910,25 @@ Eu utilizo sempre este website, quando quero fazer download de um filme. A compr
 
 - [Search by Image](https://github.com/dessant/search-by-image#readme=)
 
-
 #### Dark Reader
 
 - [Dark Reader](https://github.com/darkreader/darkreader#readme=) - Alternativa: Se usares um browser Chromium, podes procurar pela flag "enable-force-dark". No Brave, ficaria algo como "brave://flags/#enable-force-dark" para aceder.
-
 
 #### Screenshot YouTube
 
 - [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk)
 
-
 #### View Youtube Thumbnail
 
 - [View Youtube Thumbnail](https://chrome.google.com/webstore/detail/view-youtube-thumbnail/ifeljkoeopnppmdlaofbgepbghddigpf)
-
 
 #### Double-click Image Downloader
 
 - [Double-click Image Downloader](https://chrome.google.com/webstore/detail/double-click-image-downlo/bkijmpolkanhdehnlnabfooghjdokakc)
 
-
 #### Google Translate
 
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-
 
 #### Favicon Detector
 
@@ -956,20 +936,17 @@ Com esta extensão, é possível encontrar todos os favicons presentes num websi
 
 - [Favicon Detector](https://chrome.google.com/webstore/detail/favicon-detector/jlfeffjhgmgblofcgpbgpkkhfniipejm)
 
-
 #### Web Scrobbler
 
 Esta extensão é para aqueles que tem uma conta do Last.fm ou algo parecido. O que ela faz? Simplesmente, ela dá scan em certos websites, por músicas que vocês estão a ouvir, para assim enviar essa informação para o vosso website de escolha de scrobbler e registar lá. É bastante simples de perceber e apenas útil para esse demográfico. Se ficares preocupado com a ideia de que ele vai capturar o "Capturamos o Ender Dragon com a Master Ball", não te preocupes. No caso do Youtube, a extensão apenas procura música nos vídeos com a categoria de música, portanto, ficas livre desse tormento.
 
 - [Web Scrobbler](https://web-scrobbler.com/)
 
-
 #### Redesign Moderno para o MyAnimeList
 
-MyAnimeList, o site que muitos levam como uma filosofia de vida. Este mesmo site, por causa de ser um projeto financiado por apenas um grupo de pessoas bastante fãs da mídia dos animes e ter também já ter uma idade elevada para um website, apresenta uma interface gráfica bastante precária, em comparação com os seus rivais. Uns vão dizer que é bom esse aspeto, outros que isso é o ponto mais fraco do site. Como é um site bastante simples, com simples mudanças no CSS do site, conseguimos o resultado moderno que muitos procuram. Isso é uma coisa, bastante procurada, portanto, temos várias soluções. Eu decidi recomendar esta, pois parece ser a mais porreira. Podes tentar encontrar mais algumas. 
+MyAnimeList, o site que muitos levam como uma filosofia de vida. Este mesmo site, por causa de ser um projeto financiado por apenas um grupo de pessoas bastante fãs da mídia dos animes e ter também já ter uma idade elevada para um website, apresenta uma interface gráfica bastante precária, em comparação com os seus rivais. Uns vão dizer que é bom esse aspeto, outros que isso é o ponto mais fraco do site. Como é um site bastante simples, com simples mudanças no CSS do site, conseguimos o resultado moderno que muitos procuram. Isso é uma coisa, bastante procurada, portanto, temos várias soluções. Eu decidi recomendar esta, pois parece ser a mais porreira. Podes tentar encontrar mais algumas.
 
 - [MyAnimeList ReDesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html)
-
 
 #### Tradutor de Mangás/Doujinshis
 
@@ -978,12 +955,10 @@ Esta extensão é capaz de traduzir qualquer tipo de mangá que não esteja trad
 - [IsManga Translator](https://ismanga.com/)
 - [Raw Manga Fan](https://rawmangafan.com/)
 
-
 #### Base 64 decode & copy
 
 - [Base 64 decode & copy](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf) -Chromium
 - [base64 decoder](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) - Firefox
-
 
 #### Bypass Paywalls
 
@@ -991,28 +966,23 @@ Extensão para dar bypass a sites de notícias e similares, que exigem que pague
 
 - [Bypass Paywalls](https://github.com/iamadamdev?tab=repositories)
 
-
 ### Scripts de Violentmonkey
 
 #### Simple YouTube Age Restriction Bypass
 
 - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)
 
-
 #### Youtube shorts redirect
 
 - [Youtube shorts redirect](https://greasyfork.org/en/scripts/439993-youtube-shorts-redirect)
-
 
 #### RARBG - torrent and magnet links
 
 - [RARBG - torrent and magnet links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links)
 
-
 #### IMDB to RARBG Torrent Search
 
 - [IMDB to RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search)
-
 
 #### Openings e Endings pelo Próprio MyAnimeList
 
@@ -1024,13 +994,11 @@ Olá apreciador de openings estáticas e com pratos a rodar! Sabes quando estás
 
 - [MAL-Sync](https://malsync.moe/)
 
-
 #### Sci-Hub Button
 
 Este script vai abrir a chance de tu clicares num simples botão que te levará para o mesmo articulo que tens na frente, mas na sua forma completa e de graça. Sendo sincero, nunca usei o Sci-Hub ou qualquer tipo de "artigo de universidade" mas quando o momento chegar, eu sei que este script me irá ajudar e acaba que por ser isso a sua função principal. Portanto, se encontras que a tua situação irá depender um dia desta mesma função, eu recomendo instalares!
 
 - [Sci-Hub Button](https://greasyfork.org/en/scripts/370246-sci-hub-button)
-
 
 #### Download de Vídeos do Youtube Pelo Próprio Website
 
@@ -1038,13 +1006,11 @@ Existem muitas formas diferentes no mundo de fazer download de vídeos no Youtub
 
 - [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader)
 
-
 #### Lista com Vários Scripts para Melhor a Experiência no MyAnimeList
 
 Dentro do mundo dos currículos gamers dos animes, temos alguma disputa para escolher qual é o melhor. Por um lado, temos a estética bonita do Anilist mas também temos o MyAnimeList, que já existe à mais tempo e as comunidades lá estão melhor estruturadas. Portanto, para quem ainda é defensor do MyAnimeList, mas gostaria que ele fosse mais atual, nas suas questões estéticas e práticas, este conjunto de scripts devem ser a solução. Recomendo perderes uns minutos da tua vida a explorar o que cada um faz e ai tu analisares o que deves ou não colocar. Digo isto mais para não deixar o site repleto de funções que pouco vais usar.
 
 - [Tampermonkey Scripts For MAL](https://myanimelist.net/forum/?topicid=1849731)
-
 
 #### Repositório de Scripts
 
@@ -1063,21 +1029,17 @@ Olá portador de um vício de aquisição enorme! Queres manter os vídeos dos t
 
 - [Youtube-DL GUI](https://jely2002.github.io/youtube-dl-gui/)
 
-
 ### Eliminar Imagens Duplicadas
 
 Vamos colocar pés nesta situação. Acabaste de sacar uma galeria inteira de porn futa e verificaste que existem alguns imagens repetidas nesse download, comparando com a tua coleção. Mesmo que as imagens sejam feitas para tu olhares, não queres perder tempo para analisar as imagens e descobrir as repetidas. Como conseguirás tu, jovem que só quer bater uma para umas gajas com pila, fazer esse trabalho chato de forma automática? Bem, com o dupeGuru, terás esse desejo realizado (o de ser fodido ferozmente por uma gaja com pila, esse é mais complicado).
 
 - [DupeGuru](https://dupeguru.voltaicideas.net/)
 
-
 ### Tirar Publicidade do Spotify no PC
 
 Depois da perda do nosso camarada frigorífico (descança em paz), a melhor solução para os nossos problemas musicais de primeiro mundo (claro, sem optar pela opção de sacar música FLAC e ouvir de forma offline) é voltar a utilizar o Spotify. No computador, mesmo com uma liberdade maior ainda existe algumas restrições como as publicidades e skips. Para isso, eu apresento uma solução simples e rápida. Nota: É necessário que uses o Spotifty do Computador e não o do Windows 10 para isto funcionar. Basta só executar o código no powershell ou usar os outros métodos presentes no site abaixo.
 
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
-
-```[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; Invoke-Expression "& { $(Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/mrpond/BlockTheSpot/master/install.ps1') } -UninstallSpotifyStoreEdition -UpdateSpotify -RemoveAdPlaceholder"```
 
 ### Copiar Ficheiros da Forma Simples e Rápida
 
@@ -1089,10 +1051,9 @@ Também podes tentar utilizar este programa, que usa uma interface gráfica para
 
 - [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
 
-
 ### Compressor de Muitas Imagens / Bulk Image Compressor
 
-Pois né? O limite são 500MB e como tu tiraste mais de 1000 fotografias, ultrapassaste esse limite faz tempo. Bem, não só para isso mas também como forma de retirar todo os metadados das imagens, recomendo que uses este programa. Ele é bastante simples de usar e o resultado é impressionante. Com um simples "passar caesium" consegues reduções de 90% no tamanho da imagem. 
+Pois né? O limite são 500MB e como tu tiraste mais de 1000 fotografias, ultrapassaste esse limite faz tempo. Bem, não só para isso mas também como forma de retirar todo os metadados das imagens, recomendo que uses este programa. Ele é bastante simples de usar e o resultado é impressionante. Com um simples "passar caesium" consegues reduções de 90% no tamanho da imagem.
 
 Handbrake das Imagens Caralho.
 
@@ -1105,7 +1066,6 @@ Handbrake das Imagens Caralho.
 Triste vida que leva uma pessoa que sabe mexer em programas de vídeos, pois assim ela é confrontada pela família para realizar toda a gravação de um evento festivo random qualquer. Bem, essa parte nem é tão complicada, já que é só tirar umas fotos e gravar uns vídeos porreiros. O problema, aparece na segunda parte, que é a edição desse material todo... Por isso mesmo, que dediquei um bom tempo na procura da melhor solução para esse problema e ela é este programa aqui. Ele é pago mas né, crack gigatónico. Porque é que opto por usar este programa? Basicamente, ele usa de uma AI para sincronizar a música com as imagens e vídeos, ou seja, o trabalho já está praticamente feito. A cereja no topo do bolo? O simples facto que ele apresenta um wizard para guiar a construção do vídeo. Junto isto com o facto que tem templates no próprio programa e temos a melhor solução para este problema de merda.
 
 - [SlideshowMaker 8](https://mega.nz/file/GaRmDAbA#q8kfkLnbQuBcHObCPiVpxdTu6-eGMnLGMexY90OZ94I)
-
 
 ### Controlar/Ver o telemóvel pelo PC
 
@@ -1133,36 +1093,35 @@ Tens Photoshop, Illustrator, Premiere, After Effects e o caralho todo da Adobe
 
 - [Master Collection](https://w14.monkrus.ws/search?q=Master+Collection&max-results=20&by-date=true)
 
-
 ### Download de Vídeo da Internet de uma Forma Prática
 
-Então, ouvi dizer que encontraste um vídeo incrível no Twitter e queres fazer um meme com ele. Muito bem, a primeira coisa que vais precisar é sacar o próprio vídeo. Com isso, tenho a ferramenta épica para o trabalho. No fim deste mini tutorial, terás a habilidade de conseguir qualquer vídeo da internet, com praticidade e o caralho. Irei colocar em passos para facilitar o processo. 
+Então, ouvi dizer que encontraste um vídeo incrível no Twitter e queres fazer um meme com ele. Muito bem, a primeira coisa que vais precisar é sacar o próprio vídeo. Com isso, tenho a ferramenta épica para o trabalho. No fim deste mini tutorial, terás a habilidade de conseguir qualquer vídeo da internet, com praticidade e o caralho. Irei colocar em passos para facilitar o processo.
 
-__1. Instalar o Chocolatey__
+**1. Instalar o Chocolatey**
 
 É bastante simples o fazer. O que é o Chocolatey? Em suma, uma forma simples instalar programas no Windows. Para o fazer, vamos abrir o Powershell em administrador e colar este comando aqui.
 
-```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
+- [Chocolatey](https://chocolatey.org/install)
 
-*Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"*
+_Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"_
 
-__2. Instalar o Youtube-Dl__
+**2. Instalar o Youtube-Dl**
 
 O Youtube-dl é um programa muito épico. Ele será uma peça essencial neste projeto. Em suma, ele faz download de vídeos da internet. Para o instalar basta escrever este código, no Powershell com administrador.
 
-```choco install youtube-dl```
+`choco install youtube-dl`
 
-*Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"*
+_Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"_
 
-__3. Instalar o FFMPEG__
+**3. Instalar o FFMPEG**
 
 Este então, é o programa mais lindo que existe. Ele é tudo o que tem haver com encoding de vídeo. Para o instalar, basta utilizar este comando, no Powershell com administrador.
 
-```choco install ffmpeg```
+`choco install ffmpeg`
 
-*Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"*
+_Lembrando que será pedido para confirmar o passo, com a tecla "Y" e "Enter"_
 
-__4. Adicionar o Atalho ao Menu do Windows__
+**4. Adicionar o Atalho ao Menu do Windows**
 
 Para terminar o processo, vamos deixar mais prático estas ferramentas, com o uso do menu do Windows. Basta executar este arquivo para conseguir esse sub-menu.
 
@@ -1171,7 +1130,7 @@ Para terminar o processo, vamos deixar mais prático estas ferramentas, com o us
 Fica só um extra que é adicionar um outro menu mas este do FFMPEG. Basta só executar este outro script
 
 - [ffmpeg.reg](https://cdn.discordapp.com/attachments/822853185638236180/934178748989841408/ffmpeg.reg)
-  
+
 No final, terás acesso a este menu onde, com o link copiado, poderás fazer o download
 
 ![Youtube-Dl no Windows](https://cdn.discordapp.com/attachments/822853185638236180/901485141984174160/unknown.png)
@@ -1182,21 +1141,19 @@ Eu tenho o devido crédito de falar isto, já que eu sou um enorme consumidor de
 
 - [QBitTorrent](https://www.qbittorrent.org/download.php)
 
-
 ### Download Managers Para Computador
 
 Algo bastante importante, na hora de fazer download de ficheiros pesados ou de websites com velocidades bastantes lentas, é utilizar um programa capaz de organizar todos esses downloads. Por essa mesma razão, eu aqui compartilho duas alternativas que vocês poderão utilizar no vosso dia a dia. Porquê recomendar dois? Bem, ao princípio é pelo facto de que um é mais simples de usar que o outro mas o mais complexo, também apresenta melhores resultados. Também o faço, como forma de alternativa, ou seja, "se este não dá, dá o outro". Em suma, a forma de trabalho destes programas é enviar os links de download, escolher o local de download e seguir viagem. Mas e então, qual é a verdadeira razão positiva de usar isto? Bem, para downloads com partes, o programa fará delas ao mesmo tempo. Também, o programa conseguirá extrair mais velocidade em downloads limitados e para terminar, estes programas ocupam menos processos da tua máquina, ou seja, perfeitos para deixar durante a noite toda. Ah aliás, lembram-se quando deixavam o vosso computador a noite toda, para fazer um download e quando chegavam a casa, o download tinha parado? Bem, ao utilizar um programa destes, podem ter a certeza que isso não volta a acontecer!
 
-__ Opção mais difícil de usar__
+** Opção mais difícil de usar**
 
 - [JDownloader 2](https://jdownloader.org/jdownloader2)
 
-__ Opção mais fácil de usar__
+** Opção mais fácil de usar**
 
 ~~- [Xtreme Download Manager](https://xtremedownloadmanager.com/#downloads)~~ - Este tem uma interface feia e também, parece que foi abandonado o projeto.
 
 - [Motrix](https://motrix.app/) - Adicionei este, porque ele é bonito e claro de usar.
-
 
 ### Bypass do Limite de Download do Mega
 
@@ -1204,55 +1161,45 @@ Ah o Mega. O filho do incrível Megaupload. Vocês canalha, não sabem o quão m
 
 - [MegaBasterd](https://github.com/tonikelope/megabasterd/releases/latest)
 
-
 ### Sincronizar Arquivos Entre Múltiplos Aparelhos em Rede
 
 - [Syncthing](https://syncthing.net/downloads/)
 
-
 ### Renomear Vários Ficheiros
-- [Advanced Renamer](https://www.advancedrenamer.com/download)
 
+- [Advanced Renamer](https://www.advancedrenamer.com/download)
 
 ### Notas no Ambiente de Trabalho
 
 Lembraste daquelas widgets que havia no Windows Vista e no 7? Eu lembro-me...eram uma bela merda, porque todos na altura tinham computadores fracos e por essa razão, os widgets pioravam ainda mais a performance do sistema operativo. Mesmo assim, era fantástico ver um tutorial do youtube, na época, e ficar com desejo de também colocar um leitor de CPU e RAM no ambiente de trabalho. Depois deles, veio o rainmeter mas eu não quero entrar num discurso de como a internet e o mundo dos computadores num geral, era melhor no passado. Bem, dentro desses widgets, havia um com um potencial incrível e esse era o Sticky Notes. Como qualquer produto Microsoft, ele é cheio de macacadas e então, é recomendado utilizar algo diferente, como o sponsor deste vídeo o [Simple Sticky Notes](https://www.simplestickynotes.com/). Vantagens de usar este? Em suma, um maior leque de funções e menos consumo dos recursos do computador. Win Win. Um exemplo do programa em prática, oferecido pelo meu jovem amigo, Alexandre Marques.
 
-
 ![Notas no Ambiente de Trabalho Exemplo](https://cdn.discordapp.com/attachments/813838521110495282/995649044867198986/unknown.png)
 
 - [Simple Sticky Notes](https://www.simplestickynotes.com/)
-
 
 ### Procurar por Ficheiros Duplicados
 
 Neste espaço, eu já recomendei um programa capaz de arranjar imagens duplicadas, mas este aqui vai mais à frente. Este programa, com um nome impossível de dizer de forma correta, está num outro nível porque ele também é capaz de verificar múltiplos formatos e não apenas imagens. Como ele foi criado numa linguagem de programação, mais complexa / mais ligada com o computador, também temos tempos de resposta mais rápidos. Agora, a verdadeira questão, porque não apaguei o antigo e deixei este? Bem...por este ser mais complexo, acredito que alguns não saberão o que fazer ao abrir o mesmo. Junto isto com o facto que muitos só procuram uma forma de organizar a pasta dos memes, e pronto.
 
-
 - [czkawka](https://github.com/qarmin/czkawka/blob/master/instructions/Installation.md)
 
-
-### Melhor Programa de Scan de Documentos 
+### Melhor Programa de Scan de Documentos
 
 Existe toda uma arte na hora de fazer scan de livros, documentos ou similares mas para alguém como um leitor deste espaço, não procuramos esses programas super complexos. É um mercado bastante estagnado, repleto de software proprietário e depois, por causa do facto de todos os desenvolvedores de scanners, tem o seu próprio programa de scan, ficamos com muita procura de baixa qualidade. Pronto, o que este programa faz, é isso mesmo. Juntar tudo num só pack e de forma decente e prática de usar. Dica óbvia, usem sempre as maiores definições possíveis para a vossa digitalização, já que: Mundo Real = Resolução Infinita / Mundo Digital = Limitado pelo que foste criado.
 
 - [NAPS2](https://www.naps2.com/download.html)
 
-
 ### Download de Músicas FLAC/MP3 e Rara
 
-Este programa é bastante similar a um serviço torrent, já que ele se trata de uma rede P2P de partilha de músicas. Portanto, é aquela história antiga do "ajuda o próximo". O que precisas fazer para começar a tunar neste programa? Ele vai pedir-te um login, mas não te assustes, pois essa primeira janela é uma de registo. Numa segunda janela, ai vais colocar a tua pasta de músicas, como forma de ajudar os próximos e pronto. Acredito que todo o resto seja bastante auto explicatório. Uma vantagem de usar este serviço, é mesmo o facto que toda ela está bastante bem organizada e catalogizada. Ainda sou bastante *noob* nele, mas acredito que tenha uma enorme seleção, por isso que coloquei o "raro". 
+Este programa é bastante similar a um serviço torrent, já que ele se trata de uma rede P2P de partilha de músicas. Portanto, é aquela história antiga do "ajuda o próximo". O que precisas fazer para começar a tunar neste programa? Ele vai pedir-te um login, mas não te assustes, pois essa primeira janela é uma de registo. Numa segunda janela, ai vais colocar a tua pasta de músicas, como forma de ajudar os próximos e pronto. Acredito que todo o resto seja bastante auto explicatório. Uma vantagem de usar este serviço, é mesmo o facto que toda ela está bastante bem organizada e catalogizada. Ainda sou bastante _noob_ nele, mas acredito que tenha uma enorme seleção, por isso que coloquei o "raro".
 
 - [Soulseek](https://www.slsknet.org/news/node/1)
-
 
 ### Verificar Saúde de HDD e SSDs
 
 Uma das coisas mais tristes, neste mundo da tecnologia, é a destruição dos nossos queridos dados. Uma pessoa faz download daqueles .FLACs todos, para depois, o nosso disco rígido ir ao ar, por causa das mil e uma rotações que o indivíduo tomou ao longo da sua vida. É até simples de saber, com uma estimativa, se os vossos dispositivos de armazenamento, estão a dar o berro ou não, mas pelo menos com este programa, temos uma representação numérica, que ajuda na hora da nossa decisão de "será que está naquela altura da vida útil de trocar o armazenamento?". Nota: Não sejam filtrados pelas skins de anime, por favor...
 
-
 - [CrystalDiskInfo](https://crystalmark.info/en/download/#CrystalDiskInfo)
-
 
 ### Programa de Download de Músicas
 
@@ -1262,22 +1209,19 @@ Portanto, se te preocupas um pouco mais com os teus ficheiros offline de música
 
 - [Deemix](https://deemix.app/gui)
 
-
 ### Programa para Converter Arquivos de Forma Prática
 
 Mais uma mitada do ADM droppada. Hoje quero apresentar mais um daqueles programa OBRIGATÓRIOS em todas as minhas instalações do Ruindows. Pelo que me parece, este programa vai ser capaz de substituir qualquer tipo de converters. Mesmo assim, programas como o Handbrake e similares, que também fazem a compressão, ainda vão permanecer. Sabem o melhor ponto desta peça incrível de software código aberto? Ele é das coisas mais práticas de se usar, já que ele fica no menu de contexto do Windows. Querem algo mais simples que isto? Como ainda não o utilizei o bastante, não posso dar o meu veredito final, mas que promete bastante, OH SE PROMETE. Sonny Boy type shit.
 
 - [File Converter](https://file-converter.org/download.html)
 
-
 ### Programa para Instalar Drivers
 
 Com uma nova instalação do Windows, vais reparar que todo o sistema vai estar lento. Sabes porquê? Porque ao contrário de sistemas Unix, o Windows, não tem um instalador de drivers automático. No caso, ele opta por usar as drivers genéricas e isso é o motivo para a baixa qualidade na tua experiência. Portanto, se procuras melhorar isso, vais precisar usar um programa para as instalar. Esse mercado, é repleto de macacadas, que fodem computadores e por essa razão, eu apenas recomendo utilizar este aqui. Motivos? Este é o melhor em tudo, desde a velocidade e estabilidade.
 
-```Ao iniciar o programa, diz para instalar os indexs e também habilita as drivers da tua gráfica respetiva.```
+`Ao iniciar o programa, diz para instalar os indexs e também habilita as drivers da tua gráfica respetiva.`
 
 - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
-
 
 ### Desligar / Reiniciar o Computador Em X Tempo
 
@@ -1285,13 +1229,11 @@ Este vai ser o literal lifechanger, para o pessoal que mete o computador a fazer
 
 - [NPowerTray](https://gigaherz.github.io/NPowerTray/)
 
-
 ### Organizador da nossa Biblioteca de Músicas
 
 Antes de começar a descrever o programa, quero já informar que isto não é uma solução simples. Razão? Existem músicas que são colocadas em vários álbuns de uma só vez e isso gera conflito no programa. Ou seja, algo como a música Hacker dos Death Grips, pode ser apanhada em um outro álbum ou até mesmo por um outra artista, pelo programa. Portanto...necessitas de ter alguma atenção nesse aspecto. Recomendo fazer uns 10 álbuns por vez. De resto, é um excelente programa capaz de organizar os teus flacs e mp3s, com as suas devidas tags e capas de álbum.
 
 - [MusicBrainz Picard](https://picard.musicbrainz.org/)
-
 
 ### Criador de Ambientes CG
 
@@ -1299,25 +1241,22 @@ Serei sincero, eu nunca utilizei este programa. Aliás, fazem poucos segundos qu
 
 - [Planetside Software](https://planetside.co.uk/)
 
-
 ### Programa de Tradução
 
-Este programa é um tradutor bastante leve para o vosso computador, que utiliza a API do Google Translate+Yandex+Bing+LibreTranslate+Lingva. Portanto, podemos dizer que é uma forma mais segura e prática de utilizar estes serviços. Ele tem a sua interface gráfica, onde lá podes colar os textos que queres traduzir, mas eu prefiro o utilizar na sua forma "passiva", ou seja, ativado por uma combinação de teclas. Com o texto selecionado, eu faço essa combinação de teclas e ele fará a tradução, na minha frente. 
+Este programa é um tradutor bastante leve para o vosso computador, que utiliza a API do Google Translate+Yandex+Bing+LibreTranslate+Lingva. Portanto, podemos dizer que é uma forma mais segura e prática de utilizar estes serviços. Ele tem a sua interface gráfica, onde lá podes colar os textos que queres traduzir, mas eu prefiro o utilizar na sua forma "passiva", ou seja, ativado por uma combinação de teclas. Com o texto selecionado, eu faço essa combinação de teclas e ele fará a tradução, na minha frente.
 
-```As teclas defaults, dão conflito na hora de escrever um "€", portanto, recomendo que troquem. Atualmente estou a usar CTRL + ALT + R```
+`As teclas defaults, dão conflito na hora de escrever um "€", portanto, recomendo que troquem. Atualmente estou a usar CTRL + ALT + R`
 
 - [Crow Translate](https://crow-translate.github.io/)
 
+### Download Manager com Foco em Imagens/Galerias
 
-### Download Manager com Foco em Imagens/Galerias 
-
-O programa de hoje, é para o pessoal que gosta de passear por uns booru's. Assim, eu ainda não toquei nesse tema, aqui nos links-uteis, mas uma alternativa porreira, que também se transforma num "organizador de imagens / visualizador" é o Hydrus Network. Num futuro, talvez tenha algo focado nele. *Começar uma recomendação, com uma alternativa a ela, uau*. 
-O Hitomi, é a solução perfeita, para alguém que precisa fazer download de todo o conteúdo de um artista que encontrou num booru da vida. Aliás, se quiseres encontrar umas imagens de anime porreiras, vai ao Repositórios de Imagens de Anime. *Até publicidade?* O programa consegue automatizar o processo chato de "abrir imagem num novo separador", já que tudo o que ele precisa, é um link. Ele funciona em VÁRIOS sites, portanto, praticamente qualquer coisa que lhe deres, ele come. Podes checkar o [Supported sites](https://github.com/KurtBestor/Hitomi-Downloader#supported-sites) deles, se quiseres confirmar. Tenho focado em imagens, mas ele também consegue trabalhar com vídeos, portanto, podes usar como alternativa para um Youtube-DL ou JDownloader2, se preferires a interface e simplicidade do Hitomi.
+O programa de hoje, é para o pessoal que gosta de passear por uns booru's. Assim, eu ainda não toquei nesse tema, aqui nos links-uteis, mas uma alternativa porreira, que também se transforma num "organizador de imagens / visualizador" é o Hydrus Network. Num futuro, talvez tenha algo focado nele. _Começar uma recomendação, com uma alternativa a ela, uau_.
+O Hitomi, é a solução perfeita, para alguém que precisa fazer download de todo o conteúdo de um artista que encontrou num booru da vida. Aliás, se quiseres encontrar umas imagens de anime porreiras, vai ao Repositórios de Imagens de Anime. _Até publicidade?_ O programa consegue automatizar o processo chato de "abrir imagem num novo separador", já que tudo o que ele precisa, é um link. Ele funciona em VÁRIOS sites, portanto, praticamente qualquer coisa que lhe deres, ele come. Podes checkar o [Supported sites](https://github.com/KurtBestor/Hitomi-Downloader#supported-sites) deles, se quiseres confirmar. Tenho focado em imagens, mas ele também consegue trabalhar com vídeos, portanto, podes usar como alternativa para um Youtube-DL ou JDownloader2, se preferires a interface e simplicidade do Hitomi.
 
 Uma outra função, que eu adoro, é o seu próprio motor de busca. Usando as clássicas tags, consegues pesquisar por imagens de um específico tema/personagem/anime. Isto é perfeito, por assim não precisamos de gastar tempo a copiar e colar os links das páginas do booru que queremos. Em suma, o Hitomi acaba por ser um programa que nos momentos de desespero, aparece para salvar a nossa vida. Obrigado wiki de pornografia que o eu de do passado leu toda. Obrigado
 
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
-
 
 ### Downloader de Anime / Mangá
 
@@ -1340,22 +1279,19 @@ Este programa é muito forte, na hora de criar storyboards e já me safou alguma
 
 ---
 
-## Programas Que Funcionam na Merda da Universidade
-
+### Programas Que Funcionam na Merda da Universidade
 
 Uma basta coleção de programa que eu Miraiy arranjei práticos para a procrastinação no meio das aulas. Imagina aturar o teacher durante 4 horas, onde ele fala de macacadas simples...
 
-### Download Manager
+#### Download Manager
 
-Na hora de sacar jogos, com a internet da universidade, este é talvez o único porreiro que funciona. Ele tem uma interface bonita, parece ser bastante simples de usar e ainda está repleto de outras funções *nice* de ter. Assim, eu não recomendo utilizar o sistema torrent ou de upload dele (aliás, dar upload a onde? Não sei...) mas para o pessoal que só quer um único programa, ai está.
+Na hora de sacar jogos, com a internet da universidade, este é talvez o único porreiro que funciona. Ele tem uma interface bonita, parece ser bastante simples de usar e ainda está repleto de outras funções _nice_ de ter. Assim, eu não recomendo utilizar o sistema torrent ou de upload dele (aliás, dar upload a onde? Não sei...) mas para o pessoal que só quer um único programa, ai está.
 
 - [Motrix](https://motrix.app/)
 
-
-### Downloader de Anime / Mangá
+#### Downloader de Anime / Mangá
 
 - [HakuNeko](https://hakuneko.download/)
-
 
 ---
 
@@ -1370,14 +1306,13 @@ Olá pessoa que não compreende que a forma correta de ver anime é na realidade
 - [Aniyomi](https://github.com/jmir1/aniyomi)
 - [Saikou](https://github.com/saikou-app/saikou) - Um novo projeto, que apresenta uma interface mais trabalhada e ainda tem as informações dos animes, como personagens e pessoas por trás, tiradas do Anilist
 
-
 ### Autenticador de Dois Fatores
 
-Olá pessoas com medo de um puto com Kali Linux entrar na vossa conta do Insta! Hoje apresento a solução para os vossos problemas, o 2FA. Atualmente, não são todos os sites que apresentam essa tecnologia, mas os importantes e mainstream tem. Para os otários que criaram conta num fórum tuga de tecnologia, desculpa mas não vais conseguir utilizar TOTP ai. Bem, existe toda uma teoria por trás disto, mas como não o posso explicar tudo neste pequeno espaço da internet, recomendo verificares o [vídeo do Techlore](https://youtu.be/iXSyxm9jmmo) onde ele fala como funciona a tecnologia. 
+Olá pessoas com medo de um puto com Kali Linux entrar na vossa conta do Insta! Hoje apresento a solução para os vossos problemas, o 2FA. Atualmente, não são todos os sites que apresentam essa tecnologia, mas os importantes e mainstream tem. Para os otários que criaram conta num fórum tuga de tecnologia, desculpa mas não vais conseguir utilizar TOTP ai. Bem, existe toda uma teoria por trás disto, mas como não o posso explicar tudo neste pequeno espaço da internet, recomendo verificares o [vídeo do Techlore](https://youtu.be/iXSyxm9jmmo) onde ele fala como funciona a tecnologia.
 
-```Guarda a tua seed/chave/senha do 2FA, já que isso é o que realmente importa. Se já estás com a mão na massa, guarda também os códigos de recuperação/segurança, se por alguma razão, der barracada.```
+`Guarda a tua seed/chave/senha do 2FA, já que isso é o que realmente importa. Se já estás com a mão na massa, guarda também os códigos de recuperação/segurança, se por alguma razão, der barracada.`
 
-Porquê usar este em específico? Eu já utilizei algumas outras alternativas e, sem desmerecer apps como o Authy ou o próprio KeePassXC (sim, podes o usar), este tem um pegada mais simples, offline e segura. 
+Porquê usar este em específico? Eu já utilizei algumas outras alternativas e, sem desmerecer apps como o Authy ou o próprio KeePassXC (sim, podes o usar), este tem um pegada mais simples, offline e segura.
 
 **AVISO: Pelo menos no meu Huawei Mate 20 Lite, eu tive problemas com esta tecnologia, por causa de falhas na sincronização do tempo/hora do aparelho com o real. Qualquer atraso e os teus códigos tornam-se errados.**
 
@@ -1389,7 +1324,6 @@ Porquê usar este em específico? Eu já utilizei algumas outras alternativas e,
 
 - [Birthday Buddys](https://github.com/procrastimax/BirthdayBuddy#where-is-this-app-available)
 
-
 ### Aplicação de Converter Múltiplas Unidades
 
 Uma coisa que adoro, com relação a viver no século XXI, é toda a questão da informação ser distribuída num espaço de tempo incrivelmente curto. Isso está muito dependente com o facto que todos andamos com um telemóvel, para todo o lado. O maior problema disto tudo, é mesmo o facto que muitos se aproveitam da inocência das pessoas menos letradas nestes assuntos. Um grande exemplo disso, é com este estilo de atividades. Estou farto de encontrar websites e aplicativos que obrigam o utilizador a fornecer informações desnecessárias, para simples atividades, como a de conversão de unidades. Por essa mesma razão, eu recomendo que cada um de nós, tente utilizar alternativas offline e sem permissões ridículas, como a câmara/microfone do telemóvel. Dos apps que procurei, este foi o mais clean e exato no ponto que encontrei. Acreditem em mim, isto vai servir em algum momento da vossa vida e são poucos megas no espaço interno dos vossos 128GB.
@@ -1400,7 +1334,6 @@ Uma coisa que adoro, com relação a viver no século XXI, é toda a questão da
 - [Web App](https://converter-now.web.app/)
 - [Play Store / Google Play](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
 - [F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro/)
-
 
 ### Melhores Browsers Para Android
 
@@ -1416,7 +1349,6 @@ Olá meu camarada de direita! Hoje quero apresentar os melhores browsers para o 
 
 - [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 
-
 ### Jogos com Dinheiro Infinito / Mod APKs / Jogos Pagos de Graça
 
 Os dias do Lucky Patcher acabaram, porque eu acredito que este aplicativo consegue substituir a verdadeira intenção do povo comum. Não só ele consegue trazer resultados mais consistentes, como também o faz de uma forma mais prática e bonita. Assim, eu não testei com todo o tipo de joguinhos, mas o primeiro que testei, funcionou, portanto, foda-se. O app é como a Play Store, por essa mesma razão que eu mandei o take da praticidade. Agora...existe algum problema em usar este aplicativo? Assim, o meu lado esquizo de ser, fica tiltado por utilizar uma store deste género. Mas também, utilizar um mod apk free money da vida, onde o arranjamos em uma pesquisa rápido do Google, acaba por também fazer a mesma coisa. Portanto, ficamos pelo menos com a experiência simples. AH, ia me esquecendo. Aqui também conseguimos os jogos pagos, de forma gratuita, o que também é um plus.
@@ -1424,14 +1356,13 @@ Os dias do Lucky Patcher acabaram, porque eu acredito que este aplicativo conseg
 - [Jojoy](https://jojoy.io/)
 - [APKMODY](https://apkmody.fun/)
 
-
 ### Debloat Telemóvel / Sistemas Android - Apagar Qualquer Aplicação do Android
 
-Compraste o teu novo telemóvel com o teu querido dinheiro ganho em transações ilegais entre tu e a tua avó. Tu o ligas pela primeira vez. És confrontado com todo um mundo de "qual é o teu nome?" e isso é um total turn off para tu. Se tiveres o conhecimento, até podes te safar disso, com uma ROM customizada para o teu aparelho. Esse passo, é um grande salto, que muitas pessoas, não tomam por medo de estragar o seu novo equipamento, sem sequer o começar a testar. Também existem os casos, onde literalmente não tens essa escolha, que foi a minha triste realidade. Portanto, podemos usar o que gosto de chamar, pensos, para curar um pouco esta situação. Este programa, *que ainda estou um pouco incerto em o colocar aqui* é capaz de eliminar aplicativos do teu equipamento, que o user não tem a capacidade. O que gosto deste programa, é que ele funciona com qualquer tipo de empresa de telemóveis e também, apresenta um "modo recomendado", que ao eliminar os aplicativos dessa seção, não trará perdas na usabilidade do aparelho. Ele também tem uma breve descrição do que cada app faz e os motivos para o querer eliminar, para teres a certeza do que estás a fazer. Portanto, é isso. Vamos ver se terás uma perspetiva diferente das tuas compras. Ter gosto pelo que compramos é uma das dicas para o sucesso, porque representamos o dinheiro como "valor de trabalho" e nos esforçar para algo que só nos causa problemas, é bem lixão.
+Compraste o teu novo telemóvel com o teu querido dinheiro ganho em transações ilegais entre tu e a tua avó. Tu o ligas pela primeira vez. És confrontado com todo um mundo de "qual é o teu nome?" e isso é um total turn off para tu. Se tiveres o conhecimento, até podes te safar disso, com uma ROM customizada para o teu aparelho. Esse passo, é um grande salto, que muitas pessoas, não tomam por medo de estragar o seu novo equipamento, sem sequer o começar a testar. Também existem os casos, onde literalmente não tens essa escolha, que foi a minha triste realidade. Portanto, podemos usar o que gosto de chamar, pensos, para curar um pouco esta situação. Este programa, _que ainda estou um pouco incerto em o colocar aqui_ é capaz de eliminar aplicativos do teu equipamento, que o user não tem a capacidade. O que gosto deste programa, é que ele funciona com qualquer tipo de empresa de telemóveis e também, apresenta um "modo recomendado", que ao eliminar os aplicativos dessa seção, não trará perdas na usabilidade do aparelho. Ele também tem uma breve descrição do que cada app faz e os motivos para o querer eliminar, para teres a certeza do que estás a fazer. Portanto, é isso. Vamos ver se terás uma perspetiva diferente das tuas compras. Ter gosto pelo que compramos é uma das dicas para o sucesso, porque representamos o dinheiro como "valor de trabalho" e nos esforçar para algo que só nos causa problemas, é bem lixão.
 
 - [Universal Android Debloater](https://github.com/0x192/universal-android-debloater#how-to-use-it)
- 
-``` É preciso instalar o adb e como ele tem a sua complexidade de instalação, recomendo usar esta [ferramenta](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)```
+
+` É preciso instalar o adb e como ele tem a sua complexidade de instalação, recomendo usar esta [ferramenta](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)`
 
 ### Streaming de Filmes/Séries pelo Android
 
@@ -1439,10 +1370,10 @@ Sem grandes dificuldades de utilizar. Basta instalar o app, abrir o mesmo e come
 
 - [https://hdo.app/](HDO BOX)
 
-
 ---
 
 ## Ruindows
+
 ![Imagem Windows](https://cdn.discordapp.com/attachments/862646082578939924/992751641969299476/windows_-_header.png)
 
 ### Windows 10 19H09 - Tunado pelo Miraiy
@@ -1490,12 +1421,12 @@ Ai Micropênis, Micropênis... Tu que antes eras tão bonitinha mas agora estás
 
 Com este aqui, tu podes simplesmente colar este comando no powershell, para teres acesso a ele. Portanto, se estiveres a ter problemas com o teu antivírus / Windows Defender, podes tentar este método. Mesmo com isso em mente, podes também fazer download de um ativador ficheiro, pelo link acima.
 
-```irm https://massgrave.dev/get | iex```
+`irm https://massgrave.dev/get | iex`
 
 **Versão Antiga**
 
 - [KMS_VL_ALL_AIO.cmd](https://cdn.discordapp.com/attachments/822853185638236180/970760106889326663/KMS_VL_ALL_AIO.cmd)
-  
+
 ### Programa para Fazer Download de Versões Do Windows
 
 Se não tiveres com confiança dos links que posto aqui, ou precisas de uma versão que ainda não partilhei, podes utilizar este programa. Ele faz o download, a partir dos servidores da Microsoft. Ele torna-se mais prático do que passar pelos múltiplos links da Microsoft, até conseguires o que queres. Ele também acaba por ser melhor, do que o próprio programa da Microsoft, já que este deixa-te fazer download de qualquer versão do Windows e do Office.
@@ -1508,15 +1439,13 @@ Bom dia meus compadres! Então, gostaste do Ruindows tunado? Pois, estás pratic
 
 - [Privacy.Sexy](https://privacy.sexy/)
 
-
-### Pack de Pós Instalação do Windows 10 
+### Pack de Pós Instalação do Windows 10
 
 Olá! Sabem, mesmo com toda a estabilidade do mundo, é porreiro ter uma forma rápida de colocar um sistema pronto, da forma mais automática possível. Isso no Linux, é feito com uns bash scripts e similares, o que torna qualquer instalação em frações de segundos. No Windows, dá para fazer algo igual, mas...limitações da minha parte, acredito. Mesmo assim, aqui apresento um montante de ficheiros que levo sempre depois de instalar o Windows 10. Vais poder encontrar coisas como alguns programas essenciais para o uso do computador, debloats do windows, o ativador do próprio e algumas mitadas que coloquei lá. Se seguires todos os itens que tenho, vais ter um sistema porreiro para tudo na tua frente. Como também quero experimentar fazer umas tabelas épicas, aqui vai uma lista do que tens lá dentro e os seus links atualizados, pois aviso épico em baixo.
 
-```Com o passar do tempo, alguns instaladores vão ficar datados, porque serão criadas novas versões. Portanto, recomendo que procures os novos .exe's de alguns dos programas.```
+`Com o passar do tempo, alguns instaladores vão ficar datados, porque serão criadas novas versões. Portanto, recomendo que procures os novos .exe's de alguns dos programas.`
 
 - [Essencials Pack](https://mega.nz/file/CKIghaSK#xrjzrTZCqNgwDYejxEMDunDfZA5lJnMQKq1QXuDVWAo)
-  
 
 | 0 - Morre Windows                                                                                                             | O que faz                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1536,7 +1465,7 @@ Olá! Sabem, mesmo com toda a estabilidade do mundo, é porreiro ter uma forma r
 | [f.lux](https://justgetflux.com/)                         | Filtro de Cor Azul muito poderoso que não vivo sem                                                                                                                                      |
 | [nomacs](https://github.com/nomacs/nomacs/releases)       | Visualizador de Imagens, já que o LTSC, não tem o novo do Windows e também porque este é superior e mais leve                                                                           |
 | [ShareX](https://getsharex.com/)                          | O clássico Xereca. É um programa relacionado a tudo que seja prints e mais. Tem ferramentas como criar ou ler códigos QR, gravar ecrã e por ai vai.                                     |
-| [simplewall](https://www.henrypp.org/product/simplewall)  | Firewall melhor para o Windows. Sim, vai ser um pouco chato ao começo, mas depois de uns dias, ele não chateia o user. *O download está para baixo da página, que estiver a entrar lá.* |
+| [simplewall](https://www.henrypp.org/product/simplewall)  | Firewall melhor para o Windows. Sim, vai ser um pouco chato ao começo, mas depois de uns dias, ele não chateia o user. _O download está para baixo da página, que estiver a entrar lá._ |
 | [VLC](https://www.videolan.org/vlc/)                      | Mesmo sendo gamer do [MPV](https://mpv.io/), o VLC é a escolha mais simples e prática para o grande público                                                                             |
 
 | 2 - Office                                                | O que faz                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -1579,7 +1508,6 @@ Hoje apresento uma ferramenta bastante poderosa para os casos extremos onde o co
 
 - [TronScript](https://old.reddit.com/r/TronScript/comments/u0jfpd/tron_v1202_20220328_minor_definition_updates_bug/)
 
-
 ### Ferramenta para Fazer Download do Office
 
 ~~- [OfficeRTool](https://github.com/DarkDinosaurEx/OfficeRTool/releases/latest)~~
@@ -1590,7 +1518,6 @@ Parou de funcionar, porque a ferramenta foi atirada a baixo. Atualmente, a melho
 
 - [Store-LTSC2021-2021-11-17-Lite](https://mega.nz/file/XGoWAA7D#oSQiFMZqNvVfGBx3s_k6_9Hyeprnpm-W392QrGKSjX0)
 
-
 ### Programas que o Miraiy usa no seu Puter
 
 Um dia para ser relembrado? Não sei, mas aqui fica a lista dos programas que eu sempre instalo no meu computador. Eu tenho um uso constante do computador, portanto, acredito que consigas arranjar alguma coisa de interessante aqui. Eu como pessoa, tento sempre arranjar os programas, seguindo umas pequenas "regrinhas", como uma forma manter uma estabilidade não só no meu computador como na minha sanidade ao usar os dito cujos. Portanto, esperem por programas open the xeca e todos sacados do GitHub. Mesmo com este lifestyle, é inevitável eu precisar utilizar algo proprietário, porque pronto, a minha sanidade mental é mais importante que a sanidade do meu computador. É por essa mesma razão que, por exemplo, tenho o Office e o LibreOffice. Outros casos interessantes, é com por exemplo browsers. Sim, eu tenho pelo menos 3. Gosto imenso de dividir ações em setores, logo é mais que lógico eu ter um browser para uma atividade apenas.
@@ -1598,13 +1525,12 @@ Um dia para ser relembrado? Não sei, mas aqui fica a lista dos programas que eu
 ##### Passivos
 
 - [7-zip](https://www.7-zip.org/download.html) - A história do WinRar já acabou. Eu sei, foi o programa que apreendeste de um puto brasileiro de 15 anos, no seu tutorial "como baixar gta sa sem vírus" mas o 7-zip é OBJETIVAMENTE melhor que o WinRar. Não só ele é mais rápido, comprime melhor, como não tem o aviso chato da avaliação terminada.
-- [f.lux](https://justgetflux.com/) - Usar o computador, sem um filtro de luz azul, para mim, já não é possível. Não sabem o quanto os meus olhos derreteram na primeira semana de universidade. Muitos podem achar isto frescura, como o dark mode da vida, mas eu já abracei o mundo laranja do f.lux. Entrei por preocupação com os meus olhos mas fiquei pela *vibe* do laranja. Eu conheço o "Modo Leitura" do Windows, mas o f.lux é bem mais complexo e traz melhores resultados.
+- [f.lux](https://justgetflux.com/) - Usar o computador, sem um filtro de luz azul, para mim, já não é possível. Não sabem o quanto os meus olhos derreteram na primeira semana de universidade. Muitos podem achar isto frescura, como o dark mode da vida, mas eu já abracei o mundo laranja do f.lux. Entrei por preocupação com os meus olhos mas fiquei pela _vibe_ do laranja. Eu conheço o "Modo Leitura" do Windows, mas o f.lux é bem mais complexo e traz melhores resultados.
 - [Everything](https://www.voidtools.com/downloads/) - Vou ser sincero, eu gosto e não gosto deste programa. Eu adoro que ele funciona e muito bem. Aliás, para uma pessoa como eu, que renomeia todos os ficheiros que entram no HDD e organiza tudo com pastas, este programa é só a cereja no topo do bolo. Por outro lado, o facto de ele ser publicitado nas ads do youtube e o close source... fico um pouco titi. Enquanto não encontrar uma alternativa capaz de derrotar a lupa cor de laranja, este continua a ser a melhor searchbar do Ruindows.
-- [simplewall](https://www.henrypp.org/product/simplewall) - Este programa, é a firewall que o Windows 10, deveria trazer por default. Em suma, é uma firewall que toma os programas como regras, ao invés de usar portas ou algo similar. Eu sei, também dá para bloquear por programa na firewall do Windows, mas cita uma pessoa normal que o fez? Este programa, quando o programa exige acesso à internet, confronta o utilizador com o devido aviso e pergunta se pode continuar a conexão, ao contrário do windows, que deixa passar tudo. Com o simplewall, também é possível bloquear alguns dos serviços da própria Microsoft de passarem do nosso PC. Eu desde que encontrei o programa, recuso algum computador meu não o ter instalado. 
+- [simplewall](https://www.henrypp.org/product/simplewall) - Este programa, é a firewall que o Windows 10, deveria trazer por default. Em suma, é uma firewall que toma os programas como regras, ao invés de usar portas ou algo similar. Eu sei, também dá para bloquear por programa na firewall do Windows, mas cita uma pessoa normal que o fez? Este programa, quando o programa exige acesso à internet, confronta o utilizador com o devido aviso e pergunta se pode continuar a conexão, ao contrário do windows, que deixa passar tudo. Com o simplewall, também é possível bloquear alguns dos serviços da própria Microsoft de passarem do nosso PC. Eu desde que encontrei o programa, recuso algum computador meu não o ter instalado.
 - [ShareX](https://getsharex.com/)
 - [VLC](https://www.videolan.org/vlc/)
 - [Nomacs](https://github.com/nomacs/nomacs/releases)
-
 
 ##### Multimedia Lifestyle
 
@@ -1686,7 +1612,8 @@ Estas são as configurações mais gamers, para comprimir sem perder qualidade
 > se não são os macacos do vídeo, podem diminuir mais a qualidade
 > se forem zoomers e com attention span de merda, podem usar fast ao invés de slow
 
-*testes que fiz com um vídeo de 957,7 MiB*
+_testes que fiz com um vídeo de 957,7 MiB_
+
 ```
 H265.10bits
 85%CPU
@@ -1726,78 +1653,106 @@ São uns packs que eu roubei da antiga aula do miraiy, sejam felizes
 
 **EDITING PACKS**
 
-```
-Editing Pack v1: https://mega.nz/#!4jhzmDxb!5HpcRQSAEmQFeAN7ooJvU_A7HBhbX4QEx3H3ZyEWKC8
-                 https://drive.google.com/file/d/1odWLF0K2WZXc5PkqeW1t2XPcRe656KOK/view
+_Editing Pack v1_
 
-Editing Pack v2: https://mega.nz/#!B3Y3CLTL!lFg0CPT_r_5VObo9v7_NNYbY7YBIBvVvCp-_KXEzOFo
-                 http://www.mediafire.com/file/qwkkm3zkf01yx13/Alan_Gaming%2527s_CSGO_Editing_Pack_v2.rar/file
-                 https://drive.google.com/file/d/1LraB_a4l-4Bu4ycKD9SapJPFDjn3Uqt5/vi
+- [1](https://mega.nz/#!4jhzmDxb!5HpcRQSAEmQFeAN7ooJvU_A7HBhbX4QEx3H3ZyEWKC8)
+- [2](https://drive.google.com/file/d/1odWLF0K2WZXc5PkqeW1t2XPcRe656KOK/view)
 
-Editing Pack v3: https://mega.nz/#!wi5X0ZCS!AkVXJG6vpnAz7wMOmftKBqEHentV78cW1VX6ZE7imi8
-                 https://drive.google.com/file/d/1Qs5smNQV-9Lu0jrtK5qPTUIfqvOw9lFB/view
-```
+_Editing Pack v2_ |
+
+- [1](https://mega.nz/#!B3Y3CLTL!lFg0CPT_r_5VObo9v7_NNYbY7YBIBvVvCp-_KXEzOFo)
+- [2](http://www.mediafire.com/file/qwkkm3zkf01yx13/Alan_Gaming%2527s_CSGO_Editing_Pack_v2.rar/file)
+- [3](https://drive.google.com/file/d/1LraB_a4l-4Bu4ycKD9SapJPFDjn3Uqt5/vi)
+
+_Editing Pack v3_
+
+- [1](https://mega.nz/#!wi5X0ZCS!AkVXJG6vpnAz7wMOmftKBqEHentV78cW1VX6ZE7imi8)
+- [2](https://drive.google.com/file/d/1Qs5smNQV-9Lu0jrtK5qPTUIfqvOw9lFB/view)
 
 **TEMPLATES**
 
-```
-Sony Vegas CC #1 Preset (Old): http://www.mediafire.com/file/3bint199n6a6jkq/Alan_Gaming_Sony_Vegas_Color_Correction_Preset.rar/file
+_Sony Vegas CC Preset_
 
-Sony Vegas CC #2 Preset (Old): http://www.mediafire.com/file/pu2664vze25wx46/Sony_Vegas_Color_Correction_Preset.rar/file
+- [Sony Vegas CC #1 Preset (Old)](http://www.mediafire.com/file/3bint199n6a6jkq/Alan_Gaming_Sony_Vegas_Color_Correction_Preset.rar/file)
+- [Sony Vegas CC #2 Preset (Old)](http://www.mediafire.com/file/pu2664vze25wx46/Sony_Vegas_Color_Correction_Preset.rar/file)
 
-"Knock" CS:GO Edit CC Preset: http://www.mediafire.com/file/iajyjxy25avl6f4/Knock_CC_Preset.rar/file
-                              https://www.dropbox.com/s/02qfvlofs0jxxrv/Knock%20CC%20Preset.rar?dl=0
+_"Knock" CS:GO Edit CC Preset_
 
-Gun POV Preset & CFG: https://sellfy.com/p/Xcwv/
-                      https://www.dropbox.com/s/24l022srk73pvam/Gun%20POV%20Presets%20%26%20CFG.rar?dl=0
-                      http://www.mediafire.com/file/pdd96ewuw63i1bs/Gun_P%252AV_Presets_%2526_CFG.rar/file
+- [1](http://www.mediafire.com/file/iajyjxy25avl6f4/Knock_CC_Preset.rar/file)
+- [2](https://www.dropbox.com/s/02qfvlofs0jxxrv/Knock%20CC%20Preset.rar?dl=0)
 
-Free ReShade Preset v1 (Outdated): https://www.mediafire.com/file/rmtlmcgntro4poo/Alan_Gaming_ReShade_Preset_v1.rar/file
-                                   https://www.dropbox.com/s/pspr1hwb6ykrf5c/Alan%20Gaming%20ReShade%20Preset%20v1.rar?dl=0
+_Gun POV Preset & CFG_
 
-Moviemaking Config (2019): https://payhip.com/b/VhAU
+- [1](https://sellfy.com/p/Xcwv/)
+- [2](https://www.dropbox.com/s/24l022srk73pvam/Gun%20POV%20Presets%20%26%20CFG.rar?dl=0)
+- [3](http://www.mediafire.com/file/pdd96ewuw63i1bs/Gun_P%252AV_Presets_%2526_CFG.rar/file)
 
-Free ReShade Preset v2: https://mega.nz/#!8joGTC5R!Ro3fUwECZ0yAt0JRXS77diN2TrOzDLOi9vVgutE8AmQ
-                        https://www.mediafire.com/file/asa5nigz21qv7oa/Free_ReShade_v2.zip/file
-                        https://drive.google.com/file/d/18gB9af9hwJwyl8BmT3AcXlV6yoPZd70M/view
-                        https://www.dropbox.com/s/l7rufy7sw554156/Free%20ReShade%20v2.zip?dl=0
-```
+_Free ReShade Preset v1 (Outdated)_
+
+- [1](https://www.mediafire.com/file/rmtlmcgntro4poo/Alan_Gaming_ReShade_Preset_v1.rar/file)
+- [2](https://www.dropbox.com/s/pspr1hwb6ykrf5c/Alan%20Gaming%20ReShade%20Preset%20v1.rar?dl=0)
+
+_Moviemaking Config (2019)_
+
+- [Moviemaking Config (2019)](https://payhip.com/b/VhAU)
+
+_Free ReShade Preset v2_
+
+- [1](https://mega.nz/#!8joGTC5R!Ro3fUwECZ0yAt0JRXS77diN2TrOzDLOi9vVgutE8AmQ)
+- [2](https://www.mediafire.com/file/asa5nigz21qv7oa/Free_ReShade_v2.zip/file)
+- [3](https://drive.google.com/file/d/18gB9af9hwJwyl8BmT3AcXlV6yoPZd70M/view)
+- [4](https://www.dropbox.com/s/l7rufy7sw554156/Free%20ReShade%20v2.zip?dl=0)
 
 **PROJECT FILES**
 
-```
-After Effects CC & Glowing Sky Template (Old): http://www.mediafire.com/file/zm71a1n8mgnytm4/After_Effects_Color_Correciton_%2526_Glowing_Sky_Template.rar/file
+_After Effects CC & Glowing Sky Template (Old)_
 
-Player Name Tag Template (Sony Vegas): http://www.mediafire.com/file/924wkxcbwd07ftw/Player_Name_Tag_Template_%2528Sony_Vegas%2529.rar/file
+- [After Effects CC & Glowing Sky Template (Old)](http://www.mediafire.com/file/zm71a1n8mgnytm4/After_Effects_Color_Correciton_%2526_Glowing_Sky_Template.rar/file)
 
-Player Name Tag Template (After Effects): http://www.mediafire.com/file/eihsov8k6j5aeoh/Player_Tag_Template.rar/file
+_Player Name Tag Template (Sony Vegas)_
 
-Killfeed Template: http://www.mediafire.com/file/y62vgxdtxex8n2z/Killfeed_Template.rar/file
-                   https://www.dropbox.com/s/gz282fb29jsmntc/Killfeed%20Template.rar?dl=0
+- [1](http://www.mediafire.com/file/924wkxcbwd07ftw/Player_Name_Tag_Template_%2528Sony_Vegas%2529.rar/file)
+- [2](http://www.mediafire.com/file/eihsov8k6j5aeoh/Player_Tag_Template.rar/file)
 
-Fortnite Killfeed Template: http://www.mediafire.com/file/tnl9qfi6wju1tt0/FORTNITE_Killfeed_Template.rar/file
-                            https://www.dropbox.com/s/4bsd9ojfsldi902/FORTNITE%20Killfeed%20Template.rar?dl=0
-                            https://mega.nz/#!hjhDyYZD!-a-maBdntXxC_EWDCLgbZ3_VTdEPYj-nVuE1VgSG6eY
+_Killfeed Template_
 
-CS:GO Lower Thirds Template: http://www.mediafire.com/file/j4ab8lv8nmzhvi4/CSGO_Lower_Thirds_Template.rar/file
-                             https://www.dropbox.com/s/rrlax16tmwetlqe/CSGO%20Lower%20Thirds%20Template.rar?dl=0
+- [1](http://www.mediafire.com/file/y62vgxdtxex8n2z/Killfeed_Template.rar/file)
+- [2](https://www.dropbox.com/s/gz282fb29jsmntc/Killfeed%20Template.rar?dl=0)
 
-Custom Defuse Template: https://www.mediafire.com/file/ex1n26r13f8rrxc/Custom_Defuse_Template.zip/file
-                        https://mega.nz/#!B3Rh2KBY!c83HhxOmk58xcLk1Nxhiv8pT48NqOnCyhN1t5AM5KAc
-                        https://www.dropbox.com/s/40wonguo1hqmcu0/Custom%20Defuse%20Template.zip?dl=0
-```
+_Fortnite Killfeed Template_
 
-```
-Knock CS:GO Edit: https://mega.nz/#F!o742VKQa!qvAcP7V2wcOMu7JixKR5wA
+- [1](http://www.mediafire.com/file/tnl9qfi6wju1tt0/FORTNITE_Killfeed_Template.rar/file)
+- [2](https://www.dropbox.com/s/4bsd9ojfsldi902/FORTNITE%20Killfeed%20Template.rar?dl=0)
+- [3](https://mega.nz/#!hjhDyYZD!-a-maBdntXxC_EWDCLgbZ3_VTdEPYj-nVuE1VgSG6eY)
 
-NADEKING CS:GO Edit: https://mega.nz/#F!JiJkGYYa!u_hVkK6FCtsPdcdqR1XlCQ
+_CS:GO Lower Thirds Template_
 
-LIE CS:GO Edit: https://mega.nz/#!0ngj3IIL!cwzHR1A90TWDG7Xa1hWZdBVFxeshvE7hxvIDT_0C8Rk
-                https://drive.google.com/file/d/1H8ANJen24Gcbao_lnekr_PgyG5Ae9bzz/view
+- [1](http://www.mediafire.com/file/j4ab8lv8nmzhvi4/CSGO_Lower_Thirds_Template.rar/file)
+- [2](https://www.dropbox.com/s/rrlax16tmwetlqe/CSGO%20Lower%20Thirds%20Template.rar?dl=0)
 
-EYES CLOSED CS:GO Edit: https://mega.nz/#!Aq5zBSjL!8QHvn7SVU2uVTGSkdF_pI2OC22DoD1Lh9QuGQbToYs8
-                        https://drive.google.com/file/d/1MZKiaHZEkYV6X74zS9OFoBPHpF5F5xgD/view
-```
+_Custom Defuse Template_
+
+- [1](https://www.mediafire.com/file/ex1n26r13f8rrxc/Custom_Defuse_Template.zip/file)
+- [2](https://mega.nz/#!B3Rh2KBY!c83HhxOmk58xcLk1Nxhiv8pT48NqOnCyhN1t5AM5KAc)
+- [3](https://www.dropbox.com/s/40wonguo1hqmcu0/Custom%20Defuse%20Template.zip?dl=0)
+
+_Knock CS:GO Edit_
+
+- [Link 1](https://mega.nz/#F!o742VKQa!qvAcP7V2wcOMu7JixKR5wA)
+
+_NADEKING CS:GO Edit_
+
+- [Link 1](https://mega.nz/#F!JiJkGYYa!u_hVkK6FCtsPdcdqR1XlCQ)
+
+_LIE CS:GO Edit_
+
+- [Link 1](https://mega.nz/#!0ngj3IIL!cwzHR1A90TWDG7Xa1hWZdBVFxeshvE7hxvIDT_0C8Rk)
+- [Link 2](https://drive.google.com/file/d/1H8ANJen24Gcbao_lnekr_PgyG5Ae9bzz/view)
+
+_EYES CLOSED CS:GO Edit_
+
+- [Link 1](https://mega.nz/#!Aq5zBSjL!8QHvn7SVU2uVTGSkdF_pI2OC22DoD1Lh9QuGQbToYs8)
+- [Link 2](https://drive.google.com/file/d/1MZKiaHZEkYV6X74zS9OFoBPHpF5F5xgD/view)
 
 ### Pack de Estilos Para o Photoshop
 
@@ -1811,7 +1766,7 @@ Para qualquer tipo de thumbmaker, este pack é mais do que o suficiente para a c
 
 ### Código Base
 
-```ffmpeg -i [nome do input].[extensão do ficheiro] [nome que queres de output].[extensão nova]```
+`ffmpeg -i [nome do input].[extensão do ficheiro] [nome que queres de output].[extensão nova]`
 
 ### Transformar Frames em um Vídeo
 
@@ -1833,9 +1788,9 @@ Olá! Sabem quando eu mando aqueles textos todo Umimerda de ser? Pronto, vocês 
 
 ![Diferentes Formas de Formatar Textos no Discord / Escrever com Cores no Discord](https://cdn.discordapp.com/attachments/822853185638236180/943586469996552262/unknown.png)
 
-###  Tipo de Letra / Fonte / Familia Tipográfica - Futura
+### Tipo de Letra / Fonte / Familia Tipográfica - Futura
 
-Então? Queres ter um banner igual aos do Capitão Fausto? Tens uma giga tusa pelas linhas geométricas e redondas das letras da Futura? Queres desenvolver um design todo Bauhaus e não queres usar as fontes de merda e sim as verdadeiras usadas na altura? 
+Então? Queres ter um banner igual aos do Capitão Fausto? Tens uma giga tusa pelas linhas geométricas e redondas das letras da Futura? Queres desenvolver um design todo Bauhaus e não queres usar as fontes de merda e sim as verdadeiras usadas na altura?
 
 Bem colega, toma aqui um packzinho dos diferentes cortes, pesos e o caralho da Futura.
 
@@ -1848,11 +1803,11 @@ Estes websites, ajudam a escolher que forma de armazenamento é melhor para o te
 - [shucks](https://shucks.top/)
 - [diskprices](https://diskprices.com/)
 
-
 ### SpeedRunners Online
 
 - [SpeedRunners](https://mega.nz/file/TGYWza5L#NcnyCfsgK08HKHH9LXN_seTdJTaO63YfLmM0WqQUt6U)
-- 
+-
+
 ### Renderizar com Transparência no After Effects
 
 Isto pode parecer bizarro, mas eu sei que existe muitos que ainda não sabem como exportar com transparência, no programa capaz de fazer os "SUBSCRIVE+ LIKE". Fonte para o meu argumento? Eu o fiz, com base no facto que todos esses vídeos, são repletos de keylights de baixa qualidade. Assim, claro que não dá para colocar um vídeo transparente no Youtube(eu...eu acho...) e a maioria só procura "green screen" nesses casos. Mesmo assim, eu próprio demorei a aprender a fazer isto, portanto, fodam-se.
@@ -1871,7 +1826,7 @@ Agora, como estou com preguiça de escrever, o **terceiro e último passo. No m�
 
 Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatidão. A gameplay é viciante, quase como uma droga e isso é claramente representado pelas várias escolhas que o jogador pode tomar. O maior problema do jogo é ele mesmo. Os criadores já arrebentaram a escala de capacidade do motor gráfico, o que resulta em horríveis otimizações e repetição dos conceitos das missões. Portanto, nesses momentos, temos as modificações da comunidade, que os criadores do jogo abraçaram. É nesse ponto que quero tocar, conceber uma pequena lista dos mods que acredito serem porreiros de ter no teu jogo. Na nista, vou tentar conceber algumas categorias, para melhorar a tua leitura. Nota: Fiz a lista, também como forma de me ajudar quando precisar reinstalar os mods. Jogar sem mods no Payday 2 é quase como suicídio...
 
-```É preciso instalar o [SuperBLT](https://superblt.znix.xyz/) e o [Bearlib](https://modworkshop.net/mod/14924) para a maioria destes mods funcionarem```
+`É preciso instalar o [SuperBLT](https://superblt.znix.xyz/) e o [Bearlib](https://modworkshop.net/mod/14924) para a maioria destes mods funcionarem`
 
 | 1 - Qualidade de Vida                                                                               | Descrição                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1929,8 +1884,6 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [Unique Loot REBOOT](https://modworkshop.net/mod/27711)                                             | Cada saco, vai ter uma skin única                                                                                                                                                 |
 | [Proving Grounds](https://modworkshop.net/mod/29905)                                                | Um mapa para testar várias coisas do jogo                                                                                                                                         |
 
-
-
 | 2 - Otimizações                                                                         | Descrição                                                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [Celer](https://pd2mods.z77.fr/celer.html)                                              | Melhora os fps, porque remove partes do mapa, que o player não está a ver                              |
@@ -1953,8 +1906,6 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [LemonCat Macro Pack (No Cubemaps)](https://modworkshop.net/mod/15764)                  | Comprime as texturas de forma drástica                                                                 |
 | [LemonCat MacroPack Smoke](https://modworkshop.net/mod/15173)                           | Reduz a qualidade dos efeitos dos fumos, explosões,...                                                 |
 | [No Trash](https://modworkshop.net/mod/12465)                                           | Tira o lixo de alguns dos mapas                                                                        |
-
-
 
 | 3 - Melhorias Gráficas                                                           | Descrição                                                                                 |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -1980,7 +1931,6 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [Old Deferred Lighting Style Restoration SuperBLT Edition](https://modworkshop.net/mod/32981)                   | Usa o antigo shader do jogo, para deixar umas texturas menos escuras                                                                    |
 | [Fully Loaded Ace Throwable Pickup Fix](https://modworkshop.net/mod/22657)                                      | Esta skill está "bugada". Diz uma coisa mas faz outra e a forma como está, é só estúpida                                                |
 
-
 | 5 - Skins e Visuais                                                        | Descrição                                                                  |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Legendary Armour Skins](https://modworkshop.net/mod/24006)                | Permite adicionar "fatos" extras ao jogo e também já vem com alguns extras |
@@ -1996,59 +1946,56 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [Weapon Texture Reworks](https://modworkshop.net/mod/36505)                | Retoca algumas texturas do jogo, para melhorar os visuais de algumas armas |
 | [Super Duper Skin Swapper](https://modworkshop.net/mod/26919)              | Qualquer arma, pode usar qualquer skin que tenhas no inventário            |
 
-
-| 6 - Memes + LAS                                                                                                               | Descrição                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Tense1983 briefing you, but you are green](https://modworkshop.net/mod/30096)                                                | Substitui o Bain pelo Tense                                                                                                         |
-| [Bruh Detection Sound](https://modworkshop.net/mod/27156)                                                                     | Bruh sfx para o alerta                                                                                                              |
-| [Walter White Fail Screen](https://modworkshop.net/mod/29828)                                                                 | Quando perderes uma missão, vai mostrar o vídeo do Walter White a cair no chão                                                      |
-| [Troll Face (LAS)](https://modworkshop.net/mod/38003)                                                                         | É AQUELE GIF CARALHO                                                                                                                |
-| [Carl Johnson [Legendary Armour Skins Skin]](https://modworkshop.net/mod/24732)                                               | CJ, CJ / Virei um trapstar do Minho, os meus fãs chamam-me 👑 ya                                                                     |
+| 6 - Memes + LAS                                                                                                                       | Descrição                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Tense1983 briefing you, but you are green](https://modworkshop.net/mod/30096)                                                        | Substitui o Bain pelo Tense                                                                                                         |
+| [Bruh Detection Sound](https://modworkshop.net/mod/27156)                                                                             | Bruh sfx para o alerta                                                                                                              |
+| [Walter White Fail Screen](https://modworkshop.net/mod/29828)                                                                         | Quando perderes uma missão, vai mostrar o vídeo do Walter White a cair no chão                                                      |
+| [Troll Face (LAS)](https://modworkshop.net/mod/38003)                                                                                 | É AQUELE GIF CARALHO                                                                                                                |
+| [Carl Johnson [Legendary Armour Skins Skin]](https://modworkshop.net/mod/24732)                                                       | CJ, CJ / Virei um trapstar do Minho, os meus fãs chamam-me 👑 ya                                                                    |
 | [AMONG US ඞ CHARACTER PACK 😂 SUS KINDA 😂 SUS IMPOSTOR 100% 😳 😳 😳 😳 😳 😳 WHO IS THE IMPOSTR](https://modworkshop.net/mod/31479) | venting                                                                                                                             |
-| [Kid eating cereal replacement for Locke in Crime.Net videos](https://modworkshop.net/mod/29038)                              | Xau Locke                                                                                                                           |
-| [Dallas Replaces Glass Cutter sfx](https://modworkshop.net/mod/21190)                                                         | Eu até acho o barulho de cortar vidros bem ASMR, mas este dá 10 a 0                                                                 |
-| [Red Amogus Charm](https://modworkshop.net/mod/38074)                                                                         | Um companheiro de viagem                                                                                                            |
-| [el gato charm](https://modworkshop.net/mod/38410)                                                                            | Um dia, eu imprimo el gato e faço o meu na vida real                                                                                |
-| [Minecraft Charms Volume 1](https://modworkshop.net/mod/38301)                                                                | Jogar Minecraft em 2022?                                                                                                            |
-| [Doobie Ralsei Weapon Charm](https://modworkshop.net/mod/34541)                                                               | Apareceu no meu twitter e achei importante ter no meu jogo                                                                          |
-| [Astolfo Bean Plushie Body Bag](https://modworkshop.net/mod/30373)                                                            | É ultra redondo caralho wtf?                                                                                                        |
-| [NFT Bored Apes as pictures](https://modworkshop.net/mod/35187)                                                               | Adoro este tipo de mods de tunar a Art Gallery                                                                                      |
-| [Cursed Dozers](https://modworkshop.net/mod/24581)                                                                            | Kawaii Dozer                                                                                                                        |
-| [replace all joy lines with bruh](https://modworkshop.net/mod/33654)                                                          | Eu odeio a Joy                                                                                                                      |
-| [Max Payne [LAS]](https://modworkshop.net/mod/25359)                                                                          | Dor de Pênis Máxima                                                                                                                 |
-| [Almir Keycard](https://modworkshop.net/mod/29976)                                                                            | Foto bonita                                                                                                                         |
-| [[LAS] Cirno](https://modworkshop.net/mod/39504)                                                                              | 2 + 2 = 4513654                                                                                                                     |
-| [Neon Genesis Evangelion LAS - Asuka](https://modworkshop.net/mod/39192)                                                      | Se aquecer, será que elas aumentam?                                                                                                 |
-| [Shirtless Buff Dallas [LAS]](https://modworkshop.net/mod/38802)                                                              | Buff Dallas                                                                                                                         |
-| [Left 4 Dead 1 Character Pack (LAS)](https://modworkshop.net/mod/38338)                                                       | Migos do Left 4 Dead                                                                                                                |
-| [Left 4 Dead 2 Characters [LAS]](https://modworkshop.net/mod/28792)                                                           | Migos do Left 4 Dead 2                                                                                                              |
-| [John McClane - LAS](https://modworkshop.net/mod/33114)                                                                       | Melhor Flme de Natal                                                                                                                |
-| [CURSED REI AYANAMI PLUSHIE - LAS](https://modworkshop.net/mod/33019)                                                         | Te diagnostico con gay                                                                                                              |
-| [Hyperdimension Neptunia Series Character Pack - LAS](https://modworkshop.net/mod/32666)                                      | Quem é que sacou isto no meu computador?                                                                                            |
-| [Hyperdimension Neptunia Series Character Pack 2 - LAS](https://modworkshop.net/mod/34159)                                    | Elas são consolas                                                                                                                   |
-| [Gawr Gura - [LAS] 1.1](https://modworkshop.net/mod/31671)                                                                    | Tubarão                                                                                                                             |
-| [Fortnite - Travis Scott [LAS]](https://modworkshop.net/mod/31697)                                                            | 2020, a discussão de Deuses, Concerto dos Pink Floyd vs. Travis Scott no Fortnite                                                   |
-| [Half Life - Otis Laurey HD Remaster [LAS]](https://modworkshop.net/mod/31426)                                                | Deagle do Opposing Force é Peak Fiction                                                                                             |
-| [Touhou Project - Reimu Hakurei - LAS](https://modworkshop.net/mod/31414)                                                     | Franquia Open Source?                                                                                                               |
-| [Number K  The Professionals (LAS)](https://modworkshop.net/mod/31383)                                                        | Homem Perserva                                                                                                                      |
-| [Phoenix  CS:GO (LAS)](https://modworkshop.net/mod/31421)                                                                     | Counter Strike CSGO GO / De polícia contra terrorista, o seu jogo acabou                                                            |
-| [Official PAYDAY 2 Merchandise Outfits [LAS]](https://modworkshop.net/mod/29914)                                              | Dead Game                                                                                                                           |
-| [Minecraft Steve - LAS](https://modworkshop.net/mod/29558)                                                                    | "o que é que há mais a dizer sobre este clássico?"                                                                                  |
-| [Gordon Freeman - Half-Life [LAS]](https://modworkshop.net/mod/27631)                                                         | Repara, Freeman = Homem Livre. Nuance, já que o jogador é livre do jogo e ao mesmo tempo não. ÉPICO                                 |
-| [Civil Protection - Half-Life: Alyx [LAS]](https://modworkshop.net/mod/27903)                                                 | É Half Life, precisei meter                                                                                                         |
-| [Gordon Freeman - Half-Life: Alyx [LAS]](https://modworkshop.net/mod/27668)                                                   | Este modelo tem problemas, porque a Valve apenas o fez a pensar ser visto de um lado                                                |
-| [Barney - Half-Life 1.01 [LAS]](https://modworkshop.net/mod/27564)                                                            | Qual deles?                                                                                                                         |
-| [Half-Life Scientist Pack [LAS]](https://modworkshop.net/mod/27614)                                                           | Sim, eu estou a ver pornografia sozinho                                                                                             |
-| [G-MAN [LAS] 1.01](https://modworkshop.net/mod/27101)                                                                         | Numa E3, a Valve vai estar a anunciar um jogo merda qualquer e depois será interrompida por um G-Man a dizer "Time Mister Freeman?" |
-| [Cyberpunk 2077 - Johnny Silverhand (Keanu Reeves) - [LAS]](https://modworkshop.net/mod/30458)                                | Eu desde o começo, dizia que o jogo ia ser rasco e um floop                                                                         |
-| [Restoration Mod LAS Pack](https://modworkshop.net/mod/25422)                                                                 | Coisas retiradas do jogo?                                                                                                           |
-| [[LAS] Restoration Sunny-Side Robber shirt outfit](https://modworkshop.net/mod/29023)                                         | Ainda mais coisas retiradas do jogo?                                                                                                |
-| [DOOM Slayer 1.11 REMAKE [LAS]](https://modworkshop.net/mod/25605)                                                            | Para quando uma do Doom Guy?                                                                                                        |
-| [GITS:SACFAO Character Pack 1.11 [LAS] [WIP]](https://modworkshop.net/mod/26388)                                              | Ghost in the Shell é ultra 8/10                                                                                                     |
-| [Little Witch Academia - Akko [LAS]](https://modworkshop.net/mod/25658)                                                       | Trigger                                                                                                                             |
-| [John Wick 3 from Fortnite [Two Pack Bundle - LAS]](https://modworkshop.net/mod/24825)                                        | John Wick, do grande jogo Fortnite                                                                                                  |
-
-
+| [Kid eating cereal replacement for Locke in Crime.Net videos](https://modworkshop.net/mod/29038)                                      | Xau Locke                                                                                                                           |
+| [Dallas Replaces Glass Cutter sfx](https://modworkshop.net/mod/21190)                                                                 | Eu até acho o barulho de cortar vidros bem ASMR, mas este dá 10 a 0                                                                 |
+| [Red Amogus Charm](https://modworkshop.net/mod/38074)                                                                                 | Um companheiro de viagem                                                                                                            |
+| [el gato charm](https://modworkshop.net/mod/38410)                                                                                    | Um dia, eu imprimo el gato e faço o meu na vida real                                                                                |
+| [Minecraft Charms Volume 1](https://modworkshop.net/mod/38301)                                                                        | Jogar Minecraft em 2022?                                                                                                            |
+| [Doobie Ralsei Weapon Charm](https://modworkshop.net/mod/34541)                                                                       | Apareceu no meu twitter e achei importante ter no meu jogo                                                                          |
+| [Astolfo Bean Plushie Body Bag](https://modworkshop.net/mod/30373)                                                                    | É ultra redondo caralho wtf?                                                                                                        |
+| [NFT Bored Apes as pictures](https://modworkshop.net/mod/35187)                                                                       | Adoro este tipo de mods de tunar a Art Gallery                                                                                      |
+| [Cursed Dozers](https://modworkshop.net/mod/24581)                                                                                    | Kawaii Dozer                                                                                                                        |
+| [replace all joy lines with bruh](https://modworkshop.net/mod/33654)                                                                  | Eu odeio a Joy                                                                                                                      |
+| [Max Payne [LAS]](https://modworkshop.net/mod/25359)                                                                                  | Dor de Pênis Máxima                                                                                                                 |
+| [Almir Keycard](https://modworkshop.net/mod/29976)                                                                                    | Foto bonita                                                                                                                         |
+| [[LAS] Cirno](https://modworkshop.net/mod/39504)                                                                                      | 2 + 2 = 4513654                                                                                                                     |
+| [Neon Genesis Evangelion LAS - Asuka](https://modworkshop.net/mod/39192)                                                              | Se aquecer, será que elas aumentam?                                                                                                 |
+| [Shirtless Buff Dallas [LAS]](https://modworkshop.net/mod/38802)                                                                      | Buff Dallas                                                                                                                         |
+| [Left 4 Dead 1 Character Pack (LAS)](https://modworkshop.net/mod/38338)                                                               | Migos do Left 4 Dead                                                                                                                |
+| [Left 4 Dead 2 Characters [LAS]](https://modworkshop.net/mod/28792)                                                                   | Migos do Left 4 Dead 2                                                                                                              |
+| [John McClane - LAS](https://modworkshop.net/mod/33114)                                                                               | Melhor Flme de Natal                                                                                                                |
+| [CURSED REI AYANAMI PLUSHIE - LAS](https://modworkshop.net/mod/33019)                                                                 | Te diagnostico con gay                                                                                                              |
+| [Hyperdimension Neptunia Series Character Pack - LAS](https://modworkshop.net/mod/32666)                                              | Quem é que sacou isto no meu computador?                                                                                            |
+| [Hyperdimension Neptunia Series Character Pack 2 - LAS](https://modworkshop.net/mod/34159)                                            | Elas são consolas                                                                                                                   |
+| [Gawr Gura - [LAS] 1.1](https://modworkshop.net/mod/31671)                                                                            | Tubarão                                                                                                                             |
+| [Fortnite - Travis Scott [LAS]](https://modworkshop.net/mod/31697)                                                                    | 2020, a discussão de Deuses, Concerto dos Pink Floyd vs. Travis Scott no Fortnite                                                   |
+| [Half Life - Otis Laurey HD Remaster [LAS]](https://modworkshop.net/mod/31426)                                                        | Deagle do Opposing Force é Peak Fiction                                                                                             |
+| [Touhou Project - Reimu Hakurei - LAS](https://modworkshop.net/mod/31414)                                                             | Franquia Open Source?                                                                                                               |
+| [Number K The Professionals (LAS)](https://modworkshop.net/mod/31383)                                                                 | Homem Perserva                                                                                                                      |
+| [Phoenix CS:GO (LAS)](https://modworkshop.net/mod/31421)                                                                              | Counter Strike CSGO GO / De polícia contra terrorista, o seu jogo acabou                                                            |
+| [Official PAYDAY 2 Merchandise Outfits [LAS]](https://modworkshop.net/mod/29914)                                                      | Dead Game                                                                                                                           |
+| [Minecraft Steve - LAS](https://modworkshop.net/mod/29558)                                                                            | "o que é que há mais a dizer sobre este clássico?"                                                                                  |
+| [Gordon Freeman - Half-Life [LAS]](https://modworkshop.net/mod/27631)                                                                 | Repara, Freeman = Homem Livre. Nuance, já que o jogador é livre do jogo e ao mesmo tempo não. ÉPICO                                 |
+| [Civil Protection - Half-Life: Alyx [LAS]](https://modworkshop.net/mod/27903)                                                         | É Half Life, precisei meter                                                                                                         |
+| [Gordon Freeman - Half-Life: Alyx [LAS]](https://modworkshop.net/mod/27668)                                                           | Este modelo tem problemas, porque a Valve apenas o fez a pensar ser visto de um lado                                                |
+| [Barney - Half-Life 1.01 [LAS]](https://modworkshop.net/mod/27564)                                                                    | Qual deles?                                                                                                                         |
+| [Half-Life Scientist Pack [LAS]](https://modworkshop.net/mod/27614)                                                                   | Sim, eu estou a ver pornografia sozinho                                                                                             |
+| [G-MAN [LAS] 1.01](https://modworkshop.net/mod/27101)                                                                                 | Numa E3, a Valve vai estar a anunciar um jogo merda qualquer e depois será interrompida por um G-Man a dizer "Time Mister Freeman?" |
+| [Cyberpunk 2077 - Johnny Silverhand (Keanu Reeves) - [LAS]](https://modworkshop.net/mod/30458)                                        | Eu desde o começo, dizia que o jogo ia ser rasco e um floop                                                                         |
+| [Restoration Mod LAS Pack](https://modworkshop.net/mod/25422)                                                                         | Coisas retiradas do jogo?                                                                                                           |
+| [[LAS] Restoration Sunny-Side Robber shirt outfit](https://modworkshop.net/mod/29023)                                                 | Ainda mais coisas retiradas do jogo?                                                                                                |
+| [DOOM Slayer 1.11 REMAKE [LAS]](https://modworkshop.net/mod/25605)                                                                    | Para quando uma do Doom Guy?                                                                                                        |
+| [GITS:SACFAO Character Pack 1.11 [LAS] [WIP]](https://modworkshop.net/mod/26388)                                                      | Ghost in the Shell é ultra 8/10                                                                                                     |
+| [Little Witch Academia - Akko [LAS]](https://modworkshop.net/mod/25658)                                                               | Trigger                                                                                                                             |
+| [John Wick 3 from Fortnite [Two Pack Bundle - LAS]](https://modworkshop.net/mod/24825)                                                | John Wick, do grande jogo Fortnite                                                                                                  |
 
 | X - Extras                                                        | Descrição                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -2060,7 +2007,6 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [CRIME.NET Cleanup](https://modworkshop.net/mod/13116)            | Retira os textos do mapa do crime.net                                           |
 | [Legendary Cursor Skins](https://modworkshop.net/mod/28530)       | Cursores ÉPICOS para o jogo                                                     |
 
-
 **UM DIA ACABO**
 
 ### Max Payne 2, que funciona em computadores novos
@@ -2069,7 +2015,7 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 
 ### Wallpapers do Miraiy
 
-Quieres? Um bom wallpaper é um wallpaper que não seja chame demasiado pelo utilizador do equipamento, mas que também o chame em questões pessoais (gostas do que está no teu ecrã). Esta minha afirmação, parte do motivo principal de que, eu antes dava demasiado apego a essas minúsculas partes dos computadores e isso cortava o tempo útil que passava a conceber algo maior. Claro que somos humanos e não GAMERS ricos e similares, mas é realmente um fator decisivo isso do teu desktop. Também é notável considerar o que aprendi na horas de criar esses pixéis, mas eu hoje sou diferente . Portanto, procuro sempre a simplicidade na imagem. Não só deixa a pessoa menos atenta em coisas desnecessárias, como realce melhor os ícones do ambiente de trabalho. Nesse tópico, se o wallpaper tiver apenas uma foco de interesse, também é possível criar diferentes "grupos" de icons nos diferentes cantos do ecrã. Programas no canto superior esquerdo até ao inferior esquerdo. Arquivos temporários no centro e os seus níveis de importância são classificados pelo o quão no centro estão. Para mim, isso existe. 
+Quieres? Um bom wallpaper é um wallpaper que não seja chame demasiado pelo utilizador do equipamento, mas que também o chame em questões pessoais (gostas do que está no teu ecrã). Esta minha afirmação, parte do motivo principal de que, eu antes dava demasiado apego a essas minúsculas partes dos computadores e isso cortava o tempo útil que passava a conceber algo maior. Claro que somos humanos e não GAMERS ricos e similares, mas é realmente um fator decisivo isso do teu desktop. Também é notável considerar o que aprendi na horas de criar esses pixéis, mas eu hoje sou diferente . Portanto, procuro sempre a simplicidade na imagem. Não só deixa a pessoa menos atenta em coisas desnecessárias, como realce melhor os ícones do ambiente de trabalho. Nesse tópico, se o wallpaper tiver apenas uma foco de interesse, também é possível criar diferentes "grupos" de icons nos diferentes cantos do ecrã. Programas no canto superior esquerdo até ao inferior esquerdo. Arquivos temporários no centro e os seus níveis de importância são classificados pelo o quão no centro estão. Para mim, isso existe.
 
 Deixando a teoria da merda de lado, o que encontras neste link? Uma combinação de wallpapers para computador e para telemóvel, que eu Miraiy encontrei pela internet/tirei screenshot/criei eu mesmo, que durante algum momento da minha vida eu pensei "uau, isto é épico para um wallpaper". Como é tudo pessoal, é notável o facto de que só encontrarás tópicos que eu tenho interesse. Portanto, mil perdões para quem procurava um wallpaper do Kirito. Agora que penso, não tem na totalidade, todos esses wallpapers, já que alguns, eu os perdi com o tempo, ou simplesmente não os quero colocar para o público (não, nunca cheguei ao ponto de colocar pornografia como wallpaper, pois, quando tinha a idade com maior chance de o fazer, a minha mãe, ao entrar no meu quarto, tinha uma fração menor que 2 segundos para ver o monitor do meu computador)
 
