@@ -19,9 +19,14 @@
 - ✔️ - Download de Filmes com o Menor Tamanho Possível
 - 🚧 - Motores de Busca para Procurar Mídias Online - ✔️ Torrents
 
+**2023/08/02**
+
+- ✔️ - Categoria - Compras
 
 
 Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
+
+---
 
 ## endereços ips porreiros para colocar no vosso browser
 
@@ -40,12 +45,6 @@ O download do teu torrent está com poucos seeders e, devido a isso, pouca veloc
 Qual é a melhor forma de verificar a tua privacidade enquanto sacas um torrent? Indo a um site que diz-te o que sacaste por torrent. Eu sei, não é muito educativo e mais para o assustador mas fica ai um site curioso que pode vir a salvar vidas. Com ele, por exemplo, podes saber se o teu amigo sacou ou não o jogo que pediste para ele sacar. Basta colocar o ip dele no website e verificar os torrents dele
 
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/)
-  
-### Reviews de Periféricos
-
-Quando estiveres com as massas no bolso, nada melhor que as gastar em um novo rato, teclado, fones,... Mas num mundo repleto de escolhas, qual será a melhor forma de separar as escolhas burlonas e as escolhas verdadeiras? Com este site, tens uma database de produtos diversos para ajudar-te na escolha. Listas como, "melhor produto para este orçamento" a "melhor produto do mercado" estão lá.
-
-- [Rtings](https://www.rtings.com/)
   
 ### Bibliotecas de Livros Online
 
@@ -136,11 +135,11 @@ Isto é uma forma mais prática de encontrar um jogo em específico, já que est
 4. [Vimm's Lair](https://vimm.net/?p=vault)
 5. [Crocdb](https://crocdb.net/)
 
-### Bypass Limite de Upload do Discord
+### BIOS / Firmware / Ficheiros de Emulação para os Emuladores
 
-Todos sabemos que Discord Nitro é uma merda. Também sabemos que alternativas ao Discord são todas carregadas por fracassos e tristezas. Como tal, como raio poderei eu dar upload a um porn gay no Discord? Sem problemas meu caro, se só procuras uma forma de colocar esse porn gay no discord, então este site tem isso resolvido. Basta dares upload nele e esperar a compressão!
+Para emular muitas das consolas que por ai andam, é necessário certos ficheiros, correspondentes com a própria consola. Basicamente, pensem nesses ficheiros como um segurança do Pacha. O jogo, que neste exemplo pode ficar como o próprio Pacha, não ficaria muito contente em ver uma cambada de pessoal não autorizado a entrar no estabelecimento. É por essa mesma razão, que temos o segurança, para verificar se os vossos .ISOs (adolescentes super cools) podem entrar ou não. Pior analogia possível...Agradeço o facto que ninguém lê estas merdas.
 
-- [8mb.video](https://8mb.video/)
+- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_files)
 
 ### Sites de Jogos Piratas
 
@@ -204,12 +203,24 @@ Alguns motores de pesquisa, que fazem o trabalho de procurar o site com o jogo, 
 4. [Online Fix](https://online-fix.me/)
 5. [ElAmigos](https://elamigos.site/)
 
+### Jogos da Rockstar nas suas melhores versões
+
+Queres jogar aquele GTA San Andreas, Vice City, 3 ou até mesmo os obscuros da empresa como The Warriors? Queres ter a melhor experiência possível sem teres que dar-te ao trabalho de instalar mods e o caralho? Bem, cola aqui neste website que tem isso mesmo que procuras. É simples de usar e na maioria das vezes o jogo já bem crackeado e o caralho
+
+- [Definitive Edition Project](https://www.definitive-edition-project.com/)
+
 ### Fix de Videojogos nos Puter
 
 Olá! Sabes quando te bate aquela nostalgia de jogar um GTA San Andreas? Acabas por arranjar uma versão e descobres que estás repleto de problemas gráficos ou até de compatibilidade. Coisas como Widescreen rafado, FPS cravados aos 30, sem música ou até som. Bom, uma forma porreira de resolver esse problema é verificando este website, que apresentará várias soluções para diversos problemas de jogos novos e até antigos! Se não quiseres ler, podes sempre procurar um vídeo no youtube!
 
 
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+
+### Bypass Limite de Upload do Discord
+
+Todos sabemos que Discord Nitro é uma merda. Também sabemos que alternativas ao Discord são todas carregadas por fracassos e tristezas. Como tal, como raio poderei eu dar upload a um porn gay no Discord? Sem problemas meu caro, se só procuras uma forma de colocar esse porn gay no discord, então este site tem isso resolvido. Basta dares upload nele e esperar a compressão!
+
+- [8mb.video](https://8mb.video/)
 
 ### Site Eventos Desportivos em Direto
 
@@ -222,12 +233,6 @@ Boas quaralho, a tasca do Zé está fechada e queres ver o Benfica Porto? Sem pr
 Bom dia! Estás à procura de uma boa database com OPs/EDs para aquele vídeo merdoso com "TOP ANIME OPENINGS". Bem, ajuda no projeto é nula mas posso recomendar este website. Ele apresenta uma enorme seleção e com uma excelente qualidade. Tem a capacidade de procurar pela tua lista do MAL, como padrão, mas recomendo que seleciones a opção "anime search".
 
 - [Themes.moe](https://themes.moe/)
-
-### Jogos da Rockstar nas suas melhores versões
-
-Queres jogar aquele GTA San Andreas, Vice City, 3 ou até mesmo os obscuros da empresa como The Warriors? Queres ter a melhor experiência possível sem teres que dar-te ao trabalho de instalar mods e o caralho? Bem, cola aqui neste website que tem isso mesmo que procuras. É simples de usar e na maioria das vezes o jogo já bem crackeado e o caralho
-
-- [Definitive Edition Project](https://www.definitive-edition-project.com/)
 
 ### Voice Creator
 
@@ -334,12 +339,6 @@ Obrigado Rui
 
 - [Coomer](https://coomer.party/)
 
-### Site Para Montar Computadores
-
-Este site facilita bastante na hora de escolher as peças, pois ajuda com as compatibilidades
-
-- [PC Part Picker](https://pcpartpicker.com/)
-
 ### Download de Várias Versões do Windows e Office Pelos Servidores da Microsoft
 
 Existem momentos na vida de um homem, que ele fica um pouco com medo de entrar em sites de estranhos online. No fim do dia, tudo o que ele quer é apenas sacar o seu Ruindows de forma legal. Então, quando estiveres com essa vontade quente no ar, este é o website que eu recomendo. Uma nota a ser considera, é também o ponto forte do site, o facto de que estás a fazer download pelos servers da Micropênis. Com isto em mente, não podes esperar encontrar a ISO do Windows 98 ou até do 7. Para essas situações, a melhor solução será procurar no [Archive.org](https://archive.org/). Também quero relembrar que este website, não tem qualquer ligação com a empresa Microsoft. É apenas um ajuda para pessoas do planeta Terra que não são trabalhadores da Microsoft.
@@ -362,7 +361,6 @@ Toda essa história de vírus ainda vive? Pensei que isso já tinha morrido... M
 
 - [SteamDB](https://steamdb.info/sales/)
 
-
 ### Sites com Legendas de Vários Idiomas para Filmes
 
 - [Subscene](https://subscene.com/)
@@ -380,30 +378,15 @@ Uma obrigação ao aceder a este tipo de websites, isto claro que a qualquer um 
 - [veporno](https://www.veporno.net/)
 - [porntrex](https://www.porntrex.com/)
 
-### Comparador de Preços de Videojogos
-
-Olá pessoa que ainda não se contentou com os preços baratos da Steam. Este é o site perfeito para ti, já que...não, não te preocupes, eu não vou recomendar sites de jogos piratas. Isso tu podes confirmar aqui neste mesmo [espaço](https://rentry.org/linksuteis#sites-de-jogos-piratas=). O que eu hoje vou apresentar, é um site que apresenta os preços de vários resselers de keys. Então, o que seria isto? Pensa assim, os jogos digitais, todos eles tem uma chave / código, que serve como forma de autenticar que uma cópia é verídica. O que estes sites fazem, é vender essas mesmas chaves, que tu depois podes colocar na tua Steam. Agora, razão para estes jogos serem mais baratos que os da Steam. Bem...existem pelo menos dois motivos. Um é o facto de que, estas pessoas compram grandes unidades e por o fazerem, eles recebem um desconto que fará com que o possam vender mai barato (também é toda uma questão de competição do livre mercado, mas não contes aos comunas). A segunda, é com a compra destes produtos, na Steam de outros países, como da Argentina. Por causa de inflações e tal, a Steam oferece diferentes preços para diferentes regiões. Isto tem o seu lado de ilegal mas ei, tu não és o culpado. Aliás, poucos são os casos de pessoas que sofreram por isso e, fica uma dica, podes muito bem ser tu a criar a tua conta Steam Argentina. Os preços lá são bem baratos mas fica um pouco complicado de criar uma conta dessa região. Para teres um cheiro disso, verifica o [SteamDB](https://rentry.org/linksuteis#verificar-os-pre%C3%A7os-e-outras-informa%C3%A7%C3%B5es-dos-jogos-da-steam=).
-
-
-- [AllKeyShop](https://www.allkeyshop.com/blog/)
-
 ### Verificar Aviões em Tempo Real
 
 Este website é daqueles que eu gosto de chamar "iniciadores de conversa". Porquê que digo isto? Bem, já pensaram o quão este site é inútil, para o dia a dia de um...como eu. Mesmo assim, quando estiveres no meio de um grupo de alunos universitários, tu vais compreender como este site será útil. Claro que, não podes sempre usar a mesma estratégia para gerar uma conversa e é por essa mesma razão, que este site, ainda parece uma merda. Pensa neste cenário. Um gajo random que fez a sua primeira compra online e está todo cheio do medo de perder as suas compras / dinheiro. Uma gaja que quer saber quando chega a sua familiar a Portugal. Um grupo de macacos que quer saber quanto tempo demora daqui à British. Todas estes momentos, são os momentos perfeitos de disparar este site. Eu sei, isto da comunicação social é comigo.
 
 - [Flightradar24](https://www.flightradar24.com/)
-  
-### BIOS / Firmware / Ficheiros de Emulação para os Emuladores
-
-Para emular muitas das consolas que por ai andam, é necessário certos ficheiros, correspondentes com a própria consola. Basicamente, pensem nesses ficheiros como um segurança do Pacha. O jogo, que neste exemplo pode ficar como o próprio Pacha, não ficaria muito contente em ver uma cambada de pessoal não autorizado a entrar no estabelecimento. É por essa mesma razão, que temos o segurança, para verificar se os vossos .ISOs (adolescentes super cools) podem entrar ou não. Pior analogia possível...Agradeço o facto que ninguém lê estas merdas.
-
-- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_files)
-
 
 ### Website de Converter Múltiplas Unidades
 
 - [Converter Now](https://converter-now.web.app/)
-
 
 ### Visitar Mapas de Videojogos Pelo Browser
 
@@ -432,25 +415,11 @@ Existem momentos na vida de um homem, onde este sente a necessidade de procurar 
 
 - [Advanced Search for YouTube](https://playlists.at/youtube/search/)
 
-
 ### Espaço Infinito no Google Drive
 
 Ter espaço ilimitado no Google Drive? Qual é a catch? Assim, vamos estar a utilizar o serviço de "Shared Folders" e por essa mesma razão, precisas de ter em mente, que outras pessoas terão acesso aos teus ficheiros. Não só isso, como também vais estar a oferecer as tuas credenciais da conta Google para outro. Por essa mesma razão, recomendo que o faças numa conta aleatório sem nada linkado a ti. Então? O que precisas fazer? Simples. Basta aceder ao link aque em baixo, colocar as tuas informações de login e talvez esperar um bocado. Para depois teres acesso a esse espaço, no teu Google Drive, procura pelo "Shared Drives". Outra recomendação que tenho, mas isto é com qualquer tipo de serviço de Cloud, é encriptar os ficheiros antes do upload. Podes usar o [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/). Também, pelo facto que qualquer um pode apagar os ficheiros, também recomendo não colocares nada muito pessoal lá, mesmo com encriptação. Vai que alguém realmente apaga o teu relatório de estágio...
 
 - [创建Google TeamDrive](https://td.mila.workers.dev/)
-
-
-### Comparador de Produtos
-
-A comparação é a forma mais simples de classificar alguma coisa. Colocar X para igual de Y é a essência da nossa caracterização. Por essa razão, na hora de fazermos uma compra para o nosso setup gamer, precisamos saber se iremos ter uma melhoria para o atual. Não queremos entrar numa espiral de desespero, porque gastamos dinheiro de forma desnecessária. Por essa razão, eu aqui vou recomendar alguns dos sites que uso na hora de fazer comprinhas. Eu já recomendei um dos sites desta lista, mas como ele também é uma peça deste puzzle, porque não repetir?
-
-- [versus](https://versus.com/) - Focado no espeto de comparar a eficácia de produtos com relação ao seu preço
-- [rtings](https://www.rtings.com/) - Repleto de reviews que vão ao ponto sobre o que procurares
-- [SocialCompare](https://socialcompare.com/en) - Não é bem para tecnologia mas tem umas comparações gerais de temas múltiplos
-- [Diffen](https://www.diffen.com/) - Compara tipos de produtos, ou seja, coisas como SSD vs HDD
-- [Looria](https://looria.com/) - Este trabalha mais como um agregador da informação para a apresentar de forma clara e limpa
-- [NanoReview](https://nanoreview.net/en) - Focado em telemóveis e portáteis
-- [Reddit Favorites](https://redditfavorites.com/) - Se procuras uma opinião/review, acredito que este seria o melhor sítio.
 
 ### Encontrar Diferenças em PDF's / Textos / Imagens
 
@@ -475,14 +444,6 @@ Este site, ao contrário de abrir um paint da vida, ajuda no próprio processo d
 Este é mais um site para a coleção "sites engraçados ahahahhaah, usei uma vez na minha vida". O site é capaz de gerar uma imagem com os moldes de vários videojogos. Ele também tem outros "esquemas" que não videojogos, mas esse é o foco dele. Razão para usar este site? Simplesmente, como uma alternativa a recriar todo o esquema de falas de um jogo, com a sua devida tipografia e o caralho. O site exporta em boa qualidade, portanto, a melhor solução para quem procura criar um funny com o jogo favorito
 
 - [The Death Generator](https://deathgenerator.com/)
-
-
-### Companheiro/Ajuda na Hora de Comprar um Computador
-
-O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não sabem muito sobre todo o processo de montar um computador. O site resolve o maior problema com o desafio de montar um computador, sendo, que partes colocar num computador e saber se elas são 100% compatíveis umas com as outras. No site, temos diferentes builds de computadores para VÁRIOS orçamentos. Eu próprio verifiquei essas builds e posso aprovar que eles oferecem um bom produto. As escolhas são muito bem pensadas, para os orçamentos. Não só isso, como ele também ajuda na hora de decidir, onde comprar as devidas peças e sim, também ajuda para a gente de Portugal. Ah, já me ia esquecendo, o site vai atualizando ao longo do tempo, portanto, podes esperar que a informação dele, é fresca. A forma principal de separar as categorias é com os orçamentos/adjetivos/cores, mas também tens guias para jogos específicos ou atividades, se preferires. Em suma, sempre que fores pensar em "quero comprar algo para o meu computador", super recomendo passar neste site.
-
-- [Logical Increments](https://www.logicalincrements.com/)
-
 
 ### Motores de Busca para Procurar Mídias Online
 
@@ -574,6 +535,14 @@ O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não 
 Eu já testei isto em vários sites de Portugal e funciona. Ao contrário de extensões, este método tem uma maior chance de funcionar, no nosso país. Existe também uma forma mais rápida, de remover a paywall, ao acrescentar ```https://12ft.io/``` ao link da notícia. Mesmo assim, acredito que seja mais simples, utilizar o site.
 
 - [12ft](https://12ft.io/)
+
+### Download de Filmes com o Menor Tamanho Possível
+
+> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+
+Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+
+- [yts.mx](https://yts.mx/)
 
 ---
 
@@ -730,12 +699,6 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 - [Sampld](https://open.sampld.app/)
 - [Blue Fox Music](https://bluefoxmusic.com/)
 
-### Site com Reviews/Recomendações de Câmaras DSLR
-
-Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
-
-- [DPreview](https://www.dpreview.com/)
-
 ### Website com múltiplos ícones que podem ser transformados para logos
 
 Bom dia meu fiel escudeiro que passas no meu jardim! Eu sou o Miraiy e serei o teu guia nesta jornada de copiar merdas da internet e dizer que foste tu a o fazer. Hoje, apresento um website, onde tem muitos ícones, perfeitos para a transmutação para aqueles logotipos de baixa qualidade com uma assinatura e um símbolo. Ele é mais focado para ícones de videojogos, mas quem disse que tal não é próprio para este tipo de trabalho? O que precisas fazer? Bem, simplesmente clica num, tira o fundo para ficar mais simples no Illustrator e depois faz download do SVG, para teres um vetor e não pixéis. É O ROUBO PERFEITO!
@@ -868,13 +831,53 @@ Eu utilizei isto, para um trabalho da universidade. Ele o usei para...gerar uma 
 
 - [fake-whatsapp-chat-generator](https://fakedetail.com/fake-whatsapp-chat-generator)
 
-### Download de Filmes com o Menor Tamanho Possível
+---
 
-> Para utilizar este site, precisar de estar ligado a um DNS que não o servido pelo teu provedor de internet.
+## Dar Upgrade no Setup Gamer
 
-Eu utilizo sempre este website, quando quero fazer download de um filme. A compressão é notável, sim, mas na maioria das vezes, eu apenas saco o filme, vejo o filme e depois deixo ele perdido no jellyfin. Como ainda não tenho a minha fonte de rendimento, eu preciso poupar no espaço, no entanto, não gosto de usufruir de serviços online. Então, o YTS é a melhor solução. O catálogo também é bastante grande e ainda oferece as legendas. Claro que não vais encontrar todos os filmes, nem todas as línguas para as legendas, mas para alguém iniciante, no ramo dos filmes, é a melhor opção. **Super-recomendado**
+![Imagem Compras](https://cdn.discordapp.com/attachments/862646082578939924/1136340196279988234/bXbV7Uw.png)
 
-- [yts.mx](https://yts.mx/)
+### Reviews de Periféricos
+
+Quando estiveres com as massas no bolso, nada melhor que as gastar em um novo rato, teclado, fones,... Mas num mundo repleto de escolhas, qual será a melhor forma de separar as escolhas burlonas e as escolhas verdadeiras? Com este site, tens uma database de produtos diversos para ajudar-te na escolha. Listas como, "melhor produto para este orçamento" a "melhor produto do mercado" estão lá.
+
+- [Rtings](https://www.rtings.com/)
+
+### Comparador de Produtos
+
+A comparação é a forma mais simples de classificar alguma coisa. Colocar X para igual de Y é a essência da nossa caracterização. Por essa razão, na hora de fazermos uma compra para o nosso setup gamer, precisamos saber se iremos ter uma melhoria para o atual. Não queremos entrar numa espiral de desespero, porque gastamos dinheiro de forma desnecessária. Por essa razão, eu aqui vou recomendar alguns dos sites que uso na hora de fazer comprinhas. Eu já recomendei um dos sites desta lista, mas como ele também é uma peça deste puzzle, porque não repetir?
+
+- [versus](https://versus.com/) - Focado no espeto de comparar a eficácia de produtos com relação ao seu preço
+- [rtings](https://www.rtings.com/) - Repleto de reviews que vão ao ponto sobre o que procurares
+- [SocialCompare](https://socialcompare.com/en) - Não é bem para tecnologia mas tem umas comparações gerais de temas múltiplos
+- [Diffen](https://www.diffen.com/) - Compara tipos de produtos, ou seja, coisas como SSD vs HDD
+- [Looria](https://looria.com/) - Este trabalha mais como um agregador da informação para a apresentar de forma clara e limpa
+- [NanoReview](https://nanoreview.net/en) - Focado em telemóveis e portáteis
+- [Reddit Favorites](https://redditfavorites.com/) - Se procuras uma opinião/review, acredito que este seria o melhor sítio.
+
+### Companheiro/Ajuda na Hora de Comprar um Computador
+
+O site de hoje, será um lifechanger e lifesaver para várias pessoas, que não sabem muito sobre todo o processo de montar um computador. O site resolve o maior problema com o desafio de montar um computador, sendo, que partes colocar num computador e saber se elas são 100% compatíveis umas com as outras. No site, temos diferentes builds de computadores para VÁRIOS orçamentos. Eu próprio verifiquei essas builds e posso aprovar que eles oferecem um bom produto. As escolhas são muito bem pensadas, para os orçamentos. Não só isso, como ele também ajuda na hora de decidir, onde comprar as devidas peças e sim, também ajuda para a gente de Portugal. Ah, já me ia esquecendo, o site vai atualizando ao longo do tempo, portanto, podes esperar que a informação dele, é fresca. A forma principal de separar as categorias é com os orçamentos/adjetivos/cores, mas também tens guias para jogos específicos ou atividades, se preferires. Em suma, sempre que fores pensar em "quero comprar algo para o meu computador", super recomendo passar neste site.
+
+- [Logical Increments](https://www.logicalincrements.com/)
+
+### Site Para Montar Computadores
+
+Este site facilita bastante na hora de escolher as peças, pois ajuda com as compatibilidades
+
+- [PC Part Picker](https://pcpartpicker.com/)
+
+### Comparador de Preços de Videojogos
+
+Olá pessoa que ainda não se contentou com os preços baratos da Steam. Este é o site perfeito para ti, já que...não, não te preocupes, eu não vou recomendar sites de jogos piratas. Isso tu podes confirmar aqui neste mesmo [espaço](https://rentry.org/linksuteis#sites-de-jogos-piratas=). O que eu hoje vou apresentar, é um site que apresenta os preços de vários resselers de keys. Então, o que seria isto? Pensa assim, os jogos digitais, todos eles tem uma chave / código, que serve como forma de autenticar que uma cópia é verídica. O que estes sites fazem, é vender essas mesmas chaves, que tu depois podes colocar na tua Steam. Agora, razão para estes jogos serem mais baratos que os da Steam. Bem...existem pelo menos dois motivos. Um é o facto de que, estas pessoas compram grandes unidades e por o fazerem, eles recebem um desconto que fará com que o possam vender mai barato (também é toda uma questão de competição do livre mercado, mas não contes aos comunas). A segunda, é com a compra destes produtos, na Steam de outros países, como da Argentina. Por causa de inflações e tal, a Steam oferece diferentes preços para diferentes regiões. Isto tem o seu lado de ilegal mas ei, tu não és o culpado. Aliás, poucos são os casos de pessoas que sofreram por isso e, fica uma dica, podes muito bem ser tu a criar a tua conta Steam Argentina. Os preços lá são bem baratos mas fica um pouco complicado de criar uma conta dessa região. Para teres um cheiro disso, verifica o [SteamDB](https://rentry.org/linksuteis#verificar-os-pre%C3%A7os-e-outras-informa%C3%A7%C3%B5es-dos-jogos-da-steam=).
+
+- [AllKeyShop](https://www.allkeyshop.com/blog/)
+
+### Site com Reviews/Recomendações de Câmaras DSLR
+
+Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
+
+- [DPreview](https://www.dpreview.com/)
 
 ---
 
@@ -1340,19 +1343,19 @@ Este programa é muito forte, na hora de criar storyboards e já me safou alguma
 
 ---
 
-## Programas Que Funcionam na Merda da Universidade
+### Programas Que Funcionam na Merda da Universidade
 
 
 Uma basta coleção de programa que eu Miraiy arranjei práticos para a procrastinação no meio das aulas. Imagina aturar o teacher durante 4 horas, onde ele fala de macacadas simples...
 
-### Download Manager
+#### Download Manager
 
 Na hora de sacar jogos, com a internet da universidade, este é talvez o único porreiro que funciona. Ele tem uma interface bonita, parece ser bastante simples de usar e ainda está repleto de outras funções *nice* de ter. Assim, eu não recomendo utilizar o sistema torrent ou de upload dele (aliás, dar upload a onde? Não sei...) mas para o pessoal que só quer um único programa, ai está.
 
 - [Motrix](https://motrix.app/)
 
 
-### Downloader de Anime / Mangá
+#### Downloader de Anime / Mangá
 
 - [HakuNeko](https://hakuneko.download/)
 
@@ -1443,6 +1446,7 @@ Sem grandes dificuldades de utilizar. Basta instalar o app, abrir o mesmo e come
 ---
 
 ## Ruindows
+
 ![Imagem Windows](https://cdn.discordapp.com/attachments/862646082578939924/992751641969299476/windows_-_header.png)
 
 ### Windows 10 19H09 - Tunado pelo Miraiy
