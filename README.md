@@ -2,26 +2,6 @@
 
 # Links-Uteis
 
-## Changelog
-
-**2023/07/18**
-
-- ✔️ - Programa Storyboader
-
-**2023/07/28**
-
-- 🚧 - Port para novo repositório
-- ✔️ - Settings Compressão de Vídeos no Handbrake
-- 🚧 - Aviso em Preset de Handbrake
-- ✔️ - Remover Fundo de Imagens de Forma Automática - ✔️ Photoroom + Adobe Express
-- 🚧 - Melhores HD / SSD Preço Benefício
-- ✔️ - Download de Filmes com o Menor Tamanho Possível
-- 🚧 - Motores de Busca para Procurar Mídias Online - ✔️ Torrents
-
-**2023/08/02**
-
-- ✔️ - Categoria - Compras
-
 Olá! O meu nome é Miraiy e esta é a minha prenda para ti, pessoa que tem o mínimo de apego para com o que faço. Este é um projeto que me é muito querido. A razão por trás disto, ainda tento procurar a solução mas junta o facto que o tento fazer, de múltiplas maneiras sem grandes sucessos. Mesmo sem ela, não vejo o problema em continuar. Em suma, o que podes encontrar aqui? Como o próprio nome se descreve, é uma coletânea de utilidades para o mundo digital. Razões para tomares o que digo, como algo similar a uma verdade? Bem, isso é realmente contigo, mas se ajudar, eu próprio passei bastante tempo da minha vida nesta rede de computadores e fui apanhando uns truques ao longo dessa jornada. A minha mentalidade, para com estas recomendações, é a de tentar ser o mais simples na apresentação das nuances de cada entrada. Num exemplo prático, procuro sempre o prático de instalar, utilizar e recomendar. Porque é que se chama #Links-Uteis? Isto é porque, numa versão "beta", isto se tratava de uma sala de discord, mas isso limita bastante na procura e o valor do produto. Enfim, não sei muito mais o que escrever. Se sentires necessidade de comunicar comigo, sobre este espaço ou outro motivo, fá-lo da forma que achares mais fácil de comunicar. Sou um pouco introvertido para com pessoas novas, que aparecem do nada nas minhas mensagens pessoais, portanto, posso demorar a responder.
 
 ---
@@ -868,6 +848,13 @@ Olá pessoa que ainda não se contentou com os preços baratos da Steam. Este é
 Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
 
 - [DPreview](https://www.dpreview.com/)
+
+### Melhores HD / SSD Preço Benefício
+
+Estes websites, ajudam a escolher que forma de armazenamento é melhor para o teu orçamento e também para a atualidade, correspondente a espaço por preço
+
+- [shucks](https://shucks.top/)
+- [diskprices](https://diskprices.com/)
 
 ---
 
@@ -1796,13 +1783,6 @@ Então? Queres ter um banner igual aos do Capitão Fausto? Tens uma giga tusa pe
 Bem colega, toma aqui um packzinho dos diferentes cortes, pesos e o caralho da Futura.
 
 - [Futura](https://cdn.discordapp.com/attachments/822853185638236180/953749631848816730/Futura.zip)
-
-### Melhores HD / SSD Preço Benefício
-
-Estes websites, ajudam a escolher que forma de armazenamento é melhor para o teu orçamento e também para a atualidade, correspondente a espaço por preço
-
-- [shucks](https://shucks.top/)
-- [diskprices](https://diskprices.com/)
 
 ### SpeedRunners Online
 
