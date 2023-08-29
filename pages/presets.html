@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Presets - #Links-Uteis</title>
+    <meta name="description" content="Vários Links Épicos" />
+    <meta name="author" content="Miraiy" />
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="stylesheet" href="../style.css" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,600&display=swap"
+        rel="stylesheet" />
+
+
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js"
+        integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+        crossorigin="anonymous"></script>
+</head>
+</head>
+
+<body>
+    <div class="navbar clear nav-top">
+        <div class="row content">
+            <a href="../index.html"><img class="logo" src="../logo.png" /></a>
+            <a class="right" style="text-decoration: underline" ; href="https://rentry.org/linksuteis">
+                Rentry Original</a>
+            <a class="right" style="text-decoration: underline" ; href="https://github.com/MiraiyGUNA/linksuteis">
+                Github</a>
+        </div>
+    </div>
+    <div class="container clear">
+        <div class="row wrapper">
+            <div class="sidepanel">
+                <a class="title" href="#já-está-feito-irmão">✍️ Scripts e Presets</a>
+                <a class="section" href="#settings-compressão-de-vídeos-no-handbrake">Settings do Handbrake</a>
+                <a class="section" href="#configs-de-mpv">Configs MPV</a>
+                <a class="section" href="#ffmpeg">ffmpeg</a>
+                <a class="sub-section" href="#transformar-frames-em-um-vídeo">Frames para Vídeo</a>
+
+                <div class="divider left"></div>
+            </div>
+
+            <div class="right-col">
+                <a href="../index.html"><button class="btn"><span>Home</span></button></a>
+                <h2 id="já-está-feito-irmão">Já está feito irmão</h2>
+                <figure>
+                    <img src="https://cdn.discordapp.com/attachments/862646082578939924/992751763637673984/Presets_Arquivos_e_Configuracoes_-_header.png"
+                        alt="Imagem Presets" />
+                </figure>
+                <h3 id="preset-de-handbrake">Preset de Handbrake</h3>
+                <blockquote>
+                    <p>ANTIGO, POR FAVOR UTILIZAR O ATUALIZADO</p>
+                </blockquote>
+                <p>
+                    Depois de alguns estudos, eu adquiri este preset de Handbrake. Ele
+                    não é o mais ótimo já que se estimularmos o bitrate e também mudar
+                    para H.265, conseguiremos maior compactação. No meu caso, a minha
+                    máquina não é capaz de suportar esse maior render time e como tal,
+                    esta é a melhor opção. Se realmente quiseres, podem alterar o
+                    codificador para o H.265 que trará melhor resultados. Tenciono,
+                    depois de ter estruturado melhor os meus resultados, partilhar os
+                    dados de pesquisa para a vossa analise. Até lá, recomendo este
+                    website:
+                </p>
+                <ul>
+                    <li>
+                        <a href="https://mattgadient.com/x264-vs-x265-vs-vp8-vs-vp9-examples/">Exemplos de Compressões
+                            de Vídeo</a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://cdn.discordapp.com/attachments/822853185638236180/934178297389137940/WINRAR_PARA_VIDEOS.json">WinRAR
+                            de Vídeos</a>
+                    </li>
+                </ul>
+                <h3 id="settings-compressão-de-vídeos-no-handbrake">
+                    Settings Compressão de Vídeos no Handbrake
+                </h3>
+                <p>
+                    Estas são as configurações mais gamers, para comprimir sem perder
+                    qualidade
+                </p>
+                <p><strong>📷️ vídeo</strong></p>
+                <ul>
+                    <li>h265 10bits</li>
+                    <li>slow</li>
+                    <li>32cq // 24rf</li>
+                </ul>
+                <p><strong>🕪 audio</strong></p>
+                <ul>
+                    <li>opus</li>
+                    <li>192 (stereo) // 512 (5.1) // 768 (7.1)</li>
+                </ul>
+                <blockquote>
+                    <p>
+                        existem aparelhos antigos que não suportam estas definições, mas
+                        quem tem uma dessas, não toca em compressão de ficheiros se não
+                        são os macacos do áudio, podem reduzir os bitrates se não são os
+                        macacos do vídeo, podem diminuir mais a qualidade se forem zoomers
+                        e com attention span de merda, podem usar fast ao invés de slow
+                    </p>
+                </blockquote>
+                <p><em>testes que fiz com um vídeo de 957,7 MiB</em></p>
+                <pre><code>H265.10bits
+                85%CPU
+                50%GPU
+                5minutos e 40
+                264,8MiB
+                H265
+                85%CPU
+                50%GPU
+                5minutos e 22
+                268,5
+                H264
+                80%CPU
+                55%GPU
+                5minutos e 22
+                327,8</code></pre>
+                <h3 id="configs-de-mpv">Configs de MPV</h3>
+                <p>
+                    Aqui estão as minhas configs para o programa MPV. Lembro que para as
+                    usar, é necessário as respetivas shaders / scripts. Também vale
+                    lembrar que isto tudo tem com base no meu gosto pessoal (com questão
+                    dos inputs) e também para anime (para toda a parte dos renderings e
+                    videos). Faço mais isto como forma de database!
+                </p>
+                <ul>
+                    <li>
+                        <a
+                            href="https://cdn.discordapp.com/attachments/822853185638236180/934178426514989097/input.conf">input.conf</a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://cdn.discordapp.com/attachments/822853185638236180/934178426703724544/mpv.conf">mpv.conf</a>
+                    </li>
+                </ul>
+                <h3 id="preset-de-premiere-pro---shakes">
+                    Preset de Premiere Pro - Shakes
+                </h3>
+                <p>
+                    Umas das coisas mais comuns no Youtube é estes efeitos. Em vez de
+                    colocar uma imagem estática, muitos usam estes presets. Eu arranjei
+                    estes aqui, que são o que todos usam E como para fazer o download
+                    deles, é preciso criar uma conta, eu ofereço aqui o ficheiro. Para o
+                    usar? Basta ir na aba efeitos, pasta “predefinições”, botão direito
+                    e “importar …”. Simples assim. Agora, vocês poderam fazer a terra
+                    tremer e o caralho. Terramoto type shit.
+                </p>
+                <ul>
+                    <li>
+                        <a
+                            href="https://cdn.discordapp.com/attachments/822853185638236180/951924978624901190/Ultimate_EARTHQUAKE_-_CINECOM.prfpset">Ultimate
+                            EARTHQUAKE - CINECOM</a>
+                    </li>
+                </ul>
+                <h3 id="packs-não-sei-do-quê">Packs Não Sei do Quê</h3>
+                <p>
+                    São uns packs que eu roubei da antiga aula do miraiy, sejam felizes
+                </p>
+                <p><strong>EDITING PACKS</strong></p>
+                <p><em>Editing Pack v1</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!4jhzmDxb!5HpcRQSAEmQFeAN7ooJvU_A7HBhbX4QEx3H3ZyEWKC8">1</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/1odWLF0K2WZXc5PkqeW1t2XPcRe656KOK/view">2</a>
+                    </li>
+                </ul>
+                <p><em>Editing Pack v2</em> |</p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!B3Y3CLTL!lFg0CPT_r_5VObo9v7_NNYbY7YBIBvVvCp-_KXEzOFo">1</a>
+                    </li>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/qwkkm3zkf01yx13/Alan_Gaming%2527s_CSGO_Editing_Pack_v2.rar/file">2</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/1LraB_a4l-4Bu4ycKD9SapJPFDjn3Uqt5/vi">3</a>
+                    </li>
+                </ul>
+                <p><em>Editing Pack v3</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!wi5X0ZCS!AkVXJG6vpnAz7wMOmftKBqEHentV78cW1VX6ZE7imi8">1</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/1Qs5smNQV-9Lu0jrtK5qPTUIfqvOw9lFB/view">2</a>
+                    </li>
+                </ul>
+                <p><strong>TEMPLATES</strong></p>
+                <p><em>Sony Vegas CC Preset</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/3bint199n6a6jkq/Alan_Gaming_Sony_Vegas_Color_Correction_Preset.rar/file">Sony
+                            Vegas CC #1 Preset (Old)</a>
+                    </li>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/pu2664vze25wx46/Sony_Vegas_Color_Correction_Preset.rar/file">Sony
+                            Vegas CC #2 Preset (Old)</a>
+                    </li>
+                </ul>
+                <p><em>“Knock” CS:GO Edit CC Preset</em></p>
+                <ul>
+                    <li>
+                        <a href="http://www.mediafire.com/file/iajyjxy25avl6f4/Knock_CC_Preset.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dropbox.com/s/02qfvlofs0jxxrv/Knock%20CC%20Preset.rar?dl=0">2</a>
+                    </li>
+                </ul>
+                <p><em>Gun POV Preset &amp; CFG</em></p>
+                <ul>
+                    <li><a href="https://sellfy.com/p/Xcwv/">1</a></li>
+                    <li>
+                        <a
+                            href="https://www.dropbox.com/s/24l022srk73pvam/Gun%20POV%20Presets%20%26%20CFG.rar?dl=0">2</a>
+                    </li>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/pdd96ewuw63i1bs/Gun_P%252AV_Presets_%2526_CFG.rar/file">3</a>
+                    </li>
+                </ul>
+                <p><em>Free ReShade Preset v1 (Outdated)</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="https://www.mediafire.com/file/rmtlmcgntro4poo/Alan_Gaming_ReShade_Preset_v1.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://www.dropbox.com/s/pspr1hwb6ykrf5c/Alan%20Gaming%20ReShade%20Preset%20v1.rar?dl=0">2</a>
+                    </li>
+                </ul>
+                <p><em>Moviemaking Config (2019)</em></p>
+                <ul>
+                    <li>
+                        <a href="https://payhip.com/b/VhAU">Moviemaking Config (2019)</a>
+                    </li>
+                </ul>
+                <p><em>Free ReShade Preset v2</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!8joGTC5R!Ro3fUwECZ0yAt0JRXS77diN2TrOzDLOi9vVgutE8AmQ">1</a>
+                    </li>
+                    <li>
+                        <a href="https://www.mediafire.com/file/asa5nigz21qv7oa/Free_ReShade_v2.zip/file">2</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/18gB9af9hwJwyl8BmT3AcXlV6yoPZd70M/view">3</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dropbox.com/s/l7rufy7sw554156/Free%20ReShade%20v2.zip?dl=0">4</a>
+                    </li>
+                </ul>
+                <p><strong>PROJECT FILES</strong></p>
+                <p><em>After Effects CC &amp; Glowing Sky Template (Old)</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/zm71a1n8mgnytm4/After_Effects_Color_Correciton_%2526_Glowing_Sky_Template.rar/file">After
+                            Effects CC &amp; Glowing Sky Template (Old)</a>
+                    </li>
+                </ul>
+                <p><em>Player Name Tag Template (Sony Vegas)</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/924wkxcbwd07ftw/Player_Name_Tag_Template_%2528Sony_Vegas%2529.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a href="http://www.mediafire.com/file/eihsov8k6j5aeoh/Player_Tag_Template.rar/file">2</a>
+                    </li>
+                </ul>
+                <p><em>Killfeed Template</em></p>
+                <ul>
+                    <li>
+                        <a href="http://www.mediafire.com/file/y62vgxdtxex8n2z/Killfeed_Template.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dropbox.com/s/gz282fb29jsmntc/Killfeed%20Template.rar?dl=0">2</a>
+                    </li>
+                </ul>
+                <p><em>Fortnite Killfeed Template</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/tnl9qfi6wju1tt0/FORTNITE_Killfeed_Template.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://www.dropbox.com/s/4bsd9ojfsldi902/FORTNITE%20Killfeed%20Template.rar?dl=0">2</a>
+                    </li>
+                    <li>
+                        <a href="https://mega.nz/#!hjhDyYZD!-a-maBdntXxC_EWDCLgbZ3_VTdEPYj-nVuE1VgSG6eY">3</a>
+                    </li>
+                </ul>
+                <p><em>CS:GO Lower Thirds Template</em></p>
+                <ul>
+                    <li>
+                        <a
+                            href="http://www.mediafire.com/file/j4ab8lv8nmzhvi4/CSGO_Lower_Thirds_Template.rar/file">1</a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://www.dropbox.com/s/rrlax16tmwetlqe/CSGO%20Lower%20Thirds%20Template.rar?dl=0">2</a>
+                    </li>
+                </ul>
+                <p><em>Custom Defuse Template</em></p>
+                <ul>
+                    <li>
+                        <a href="https://www.mediafire.com/file/ex1n26r13f8rrxc/Custom_Defuse_Template.zip/file">1</a>
+                    </li>
+                    <li>
+                        <a href="https://mega.nz/#!B3Rh2KBY!c83HhxOmk58xcLk1Nxhiv8pT48NqOnCyhN1t5AM5KAc">2</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dropbox.com/s/40wonguo1hqmcu0/Custom%20Defuse%20Template.zip?dl=0">3</a>
+                    </li>
+                </ul>
+                <p><em>Knock CS:GO Edit</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#F!o742VKQa!qvAcP7V2wcOMu7JixKR5wA">Link 1</a>
+                    </li>
+                </ul>
+                <p><em>NADEKING CS:GO Edit</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#F!JiJkGYYa!u_hVkK6FCtsPdcdqR1XlCQ">Link 1</a>
+                    </li>
+                </ul>
+                <p><em>LIE CS:GO Edit</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!0ngj3IIL!cwzHR1A90TWDG7Xa1hWZdBVFxeshvE7hxvIDT_0C8Rk">Link 1</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/1H8ANJen24Gcbao_lnekr_PgyG5Ae9bzz/view">Link 2</a>
+                    </li>
+                </ul>
+                <p><em>EYES CLOSED CS:GO Edit</em></p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/#!Aq5zBSjL!8QHvn7SVU2uVTGSkdF_pI2OC22DoD1Lh9QuGQbToYs8">Link 1</a>
+                    </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/1MZKiaHZEkYV6X74zS9OFoBPHpF5F5xgD/view">Link 2</a>
+                    </li>
+                </ul>
+                <h3 id="pack-de-estilos-para-o-photoshop">
+                    Pack de Estilos Para o Photoshop
+                </h3>
+                <p>
+                    Para qualquer tipo de thumbmaker, este pack é mais do que o
+                    suficiente para a carreira inteira. Aqui vão encontrar diferentes
+                    estilos e se mesmo assim, não encontrarem algo parecido com o que
+                    precisam, basta usar um similar e mudar as cores. Juntar isto, com
+                    uma tipografia ÉPICA como a American qualquer coisa ou a clássica
+                    Bebas e ficas sem um problema para a tua vida. Algumas dicas para
+                    usar isto? Sinceramente, é meio que só apenas clickar e seguir
+                    viagem. Mesmo assim, é notável verificar os bleending modes e
+                    percentagem dos fills de alguns dos estilos. Já que também pode
+                    surgir, se depois quiseres voltar a ter todos os “ticks” no menu
+                    onde vais buscar os filtros, é lá em baixo na opção “reset…”. Boa
+                    sorte nessa jornada IRMÃO.
+                </p>
+                <ul>
+                    <li>
+                        <a href="https://mega.nz/file/yCIlVIwL#6xKBdDGM0vh6LMM17LmiZSEFqEzw41sCifys0YFgIUQ">3000 Estilos
+                            de
+                            Photoshop</a>
+                    </li>
+                </ul>
+
+                <div class="doublespace"></div>
+                <div class="divider" style="width: 24%; margin: 30px 0"></div>
+                <h2 id="ffmpeg">FFMPEG</h2>
+                <h3 id="código-base">Código Base</h3>
+                <p>
+                    <code>ffmpeg -i [nome do input].[extensão do ficheiro] [nome que queres
+              de output].[extensão nova]</code>
+                </p>
+                <h3 id="transformar-frames-em-um-vídeo">
+                    Transformar Frames em um Vídeo
+                </h3>
+                <pre><code>ffmpeg -framerate 60 -i img%04d.png output.mp4</code></pre>
+                <p>-framerate [número de fps]</p>
+                <p>
+                    [nomedoficheiro]%04d(número de números, que os frames tem // o “4” é
+                    porque existem quatro números, no total, no nome do ficheiro. Ou
+                    seja, entra o “0001” e também o “9999” // é obrigatório ter o “%” e
+                    o “d” porque, se não, o programa vai procurar um arquivo chamado
+                    “04d”).[extensão dos arquivos]
+                </p>
+
+                <div class="doublespace"></div>
+                <div class="divider" style="width: 24%; margin: 30px 0"></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
